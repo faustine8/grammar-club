@@ -13,8 +13,8 @@ lastUpdated: false
       <p class="gc-hero__lead">从单句到减化子句，建立可用于阅读与写作的英文句型地图。</p>
       <p class="gc-hero__body">这份站点整理《旋元佑进阶文法》的学习顺序，把句子元素、复合句结构、减化子句和常见写作错误放在同一条路径上，适合系统复习，也适合查阅。</p>
       <div class="gc-actions" aria-label="Primary">
-        <a class="gc-button gc-button--primary" href="/grammar-notes/01-SimpleSentences">开始：单句</a>
-        <a class="gc-button gc-button--secondary" href="/guide">阅读导览</a>
+        <a class="gc-button gc-button--primary" href="./grammar-notes/01-SimpleSentences.html">开始：单句</a>
+        <a class="gc-button gc-button--secondary" href="./guide.html">阅读导览</a>
       </div>
     </div>
     <div aria-label="阅读方法建议" style="border: 1px solid var(--gc-line); border-left: 4px solid #d57600; border-radius: 6px; background: linear-gradient(135deg, #fffaf0, #fff); padding: 28px 30px; box-shadow: 0 20px 60px rgba(31, 36, 48, 0.07);">
@@ -27,7 +27,7 @@ lastUpdated: false
         <strong style="color: var(--gc-ink); font-size: 16px; line-height: 1.45;">句型分析（精读输出）</strong>
         <span style="color: #6b5b35; font-size: 14px; line-height: 1.75;">拆解句子结构与语法关系，内化规则，提升写作品质。</span>
       </div>
-      <a class="gc-button gc-button--secondary" href="/guide" style="margin-top: 26px;">阅读导览</a>
+      <a class="gc-button gc-button--secondary" href="./guide.html" style="margin-top: 26px;">阅读导览</a>
     </div>
   </section>
 
@@ -37,51 +37,51 @@ lastUpdated: false
       <div>
         <h3 style="margin: 0; border-bottom: 2px solid var(--gc-indigo); padding-bottom: 8px; color: var(--gc-ink); font-size: 15px; font-weight: 820; line-height: 1.3;">I. 基础元素</h3>
         <ol style="display: grid; gap: 0; margin: 0; padding: 0; list-style: none;">
-          <li><a href="/grammar-notes/01-SimpleSentences">1. Simple Sentences</a></li>
-          <li><a href="/grammar-notes/02-NounPhrases">2. Noun Phrases</a></li>
-          <li><a href="/grammar-notes/03-Pronouns">3. Pronouns</a></li>
-          <li><a href="/grammar-notes/04-Adjective">4. Adjective</a></li>
-          <li><a href="/grammar-notes/05-Adverb">5. Adverb</a></li>
-          <li><a href="/grammar-notes/06-ComparativePattern">6. Comparative Pattern</a></li>
-          <li><a href="/grammar-notes/07-Prepositions">7. Prepositions</a></li>
-          <li><a href="/grammar-notes/08-Participles">8. Participles</a></li>
-          <li><a href="/grammar-notes/09-VerbTenses">9. Verb Tenses</a></li>
-          <li><a href="/grammar-notes/10-Voice">10. Voice</a></li>
-          <li><a href="/grammar-notes/11-Auxiliaries">11. Auxiliaries</a></li>
-          <li><a href="/grammar-notes/12-Moods">12. Moods</a></li>
-          <li><a href="/grammar-notes/13-Gerund">13. Gerund</a></li>
-          <li><a href="/grammar-notes/14-Infinitive">14. Infinitive</a></li>
+          <li><a href="./grammar-notes/01-SimpleSentences.html">1. Simple Sentences</a></li>
+          <li><a href="./grammar-notes/02-NounPhrases.html">2. Noun Phrases</a></li>
+          <li><a href="./grammar-notes/03-Pronouns.html">3. Pronouns</a></li>
+          <li><a href="./grammar-notes/04-Adjective.html">4. Adjective</a></li>
+          <li><a href="./grammar-notes/05-Adverb.html">5. Adverb</a></li>
+          <li><a href="./grammar-notes/06-ComparativePattern.html">6. Comparative Pattern</a></li>
+          <li><a href="./grammar-notes/07-Prepositions.html">7. Prepositions</a></li>
+          <li><a href="./grammar-notes/08-Participles.html">8. Participles</a></li>
+          <li><a href="./grammar-notes/09-VerbTenses.html">9. Verb Tenses</a></li>
+          <li><a href="./grammar-notes/10-Voice.html">10. Voice</a></li>
+          <li><a href="./grammar-notes/11-Auxiliaries.html">11. Auxiliaries</a></li>
+          <li><a href="./grammar-notes/12-Moods.html">12. Moods</a></li>
+          <li><a href="./grammar-notes/13-Gerund.html">13. Gerund</a></li>
+          <li><a href="./grammar-notes/14-Infinitive.html">14. Infinitive</a></li>
         </ol>
       </div>
       <div>
         <h3 style="margin: 0; border-bottom: 2px solid var(--gc-indigo); padding-bottom: 8px; color: var(--gc-ink); font-size: 15px; font-weight: 820; line-height: 1.3;">II. 复合句架构</h3>
         <ol style="display: grid; gap: 0; margin: 0; padding: 0; list-style: none;">
-          <li><a href="/grammar-notes/15-Conjunction">15. Conjunction</a></li>
-          <li><a href="/grammar-notes/16-CompoundSentences">16. Compound Sentences</a></li>
-          <li><a href="/grammar-notes/17-NounClauses">17. Noun Clauses</a></li>
-          <li><a href="/grammar-notes/18-AdverbClauses">18. Adverb Clauses</a></li>
-          <li><a href="/grammar-notes/19-RelativeClauses">19. Relative Clauses</a></li>
-          <li><a href="/grammar-notes/20-SubjectVerbAgreement">20. Subject Verb Agreement</a></li>
-          <li><a href="/grammar-notes/21-Inversion">21. Inversion</a></li>
+          <li><a href="./grammar-notes/15-Conjunction.html">15. Conjunction</a></li>
+          <li><a href="./grammar-notes/16-CompoundSentences.html">16. Compound Sentences</a></li>
+          <li><a href="./grammar-notes/17-NounClauses.html">17. Noun Clauses</a></li>
+          <li><a href="./grammar-notes/18-AdverbClauses.html">18. Adverb Clauses</a></li>
+          <li><a href="./grammar-notes/19-RelativeClauses.html">19. Relative Clauses</a></li>
+          <li><a href="./grammar-notes/20-SubjectVerbAgreement.html">20. Subject Verb Agreement</a></li>
+          <li><a href="./grammar-notes/21-Inversion.html">21. Inversion</a></li>
         </ol>
       </div>
       <div>
         <h3 style="margin: 0; border-bottom: 2px solid var(--gc-indigo); padding-bottom: 8px; color: var(--gc-ink); font-size: 15px; font-weight: 820; line-height: 1.3;">III. 减化子句</h3>
         <ol style="display: grid; gap: 0; margin: 0; padding: 0; list-style: none;">
-          <li><a href="/grammar-notes/22-ReducedClauses">22. Reduced Clauses</a></li>
-          <li><a href="/grammar-notes/23-RelativeClausesReduced">23. Relative Clauses Reduced</a></li>
-          <li><a href="/grammar-notes/24-NounClausesReduced">24. Noun Clauses Reduced</a></li>
-          <li><a href="/grammar-notes/25-AdverbClausesReduced">25. Adverb Clauses Reduced</a></li>
+          <li><a href="./grammar-notes/22-ReducedClauses.html">22. Reduced Clauses</a></li>
+          <li><a href="./grammar-notes/23-RelativeClausesReduced.html">23. Relative Clauses Reduced</a></li>
+          <li><a href="./grammar-notes/24-NounClausesReduced.html">24. Noun Clauses Reduced</a></li>
+          <li><a href="./grammar-notes/25-AdverbClausesReduced.html">25. Adverb Clauses Reduced</a></li>
         </ol>
       </div>
       <div>
         <h3 style="margin: 0; border-bottom: 2px solid var(--gc-indigo); padding-bottom: 8px; color: var(--gc-ink); font-size: 15px; font-weight: 820; line-height: 1.3;">附录与资源</h3>
         <ul style="display: grid; gap: 0; margin: 0; padding: 0; list-style: none;">
-          <li><a href="/preface">Preface</a></li>
-          <li><a href="/guide">Guide</a></li>
-          <li><a href="/terminology">Terminology</a></li>
-          <li><a href="/markdown-examples">Markdown Examples</a></li>
-          <li><a href="/api-examples">API Examples</a></li>
+          <li><a href="./preface.html">Preface</a></li>
+          <li><a href="./guide.html">Guide</a></li>
+          <li><a href="./terminology.html">Terminology</a></li>
+          <li><a href="./markdown-examples.html">Markdown Examples</a></li>
+          <li><a href="./api-examples.html">API Examples</a></li>
         </ul>
       </div>
     </div>
