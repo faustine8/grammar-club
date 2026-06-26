@@ -14,7 +14,7 @@
 
 ```
 S：主语
-V：动语
+V：动词(谓语)
 O：宾语
 C：补语
 ```
@@ -29,7 +29,7 @@ C：补语
 
 ## 一. S + V
 
-<u>The dog</u> <u>barked</u> at the mailman.
+<u>_The dog_</u> <u>_barked_</u> at the mailman.
 S V
 （狗冲着邮差叫。）
 
@@ -37,7 +37,7 @@ S V
 
 本句的述部以动词 `barks` 为主,告诉读者说这只狗「叫」。像 bark 这种动词称为不及物动词,可以独力完成而不需要宾语来接受这个动作。后面的 at the mailman 是个介词短语(名词短语 the mailman 加在介词 at 后作它的宾语),这个介词短语在此当副词使用,依附在动词 barked 上面作修饰语。
 
-<u>I</u> <u>got up</u> rather late this morning.
+<u>_I_</u> <u>_got up_</u> rather late this morning.
 S V
 （今天早上我起得很晚。）
 
@@ -47,7 +47,7 @@ S V
 
 ## 二. S + V + O
 
-<u>The dog</u> <u>bit</u> <u>the mailman</u>.
+<u>_The dog_</u> <u>_bit_</u> <u>_the mailman_</u>.
 S V O
 （狗咬邮差。）
 
@@ -55,7 +55,7 @@ S V O
 
 这里有一点必须先说明一下。同一个动词，视用法的不同，经常是有可能当及物动词使用、也有可能当不及物动词使用。就拿刚才看到的那个动词 bite 说，一般的用法应该是及物动词，需要有个宾语。但是它也可以这样使用：你看到一条凶恶的斗牛犬没有系链子，连忙闪开一边；这时它的主人却笑咪咪地说：
 
-Don’t worry. <u>It</u> <u>doesn’t bite</u>.
+Don’t worry. <u>_It_</u> <u>_doesn’t bite_</u>.
 S V
 （别担心。它不咬人的。）
 
@@ -67,7 +67,7 @@ S V
 
 有一种及物动词可以有两个宾语，这种及物动词多半带有「授与」的意思，所以又称为**授与动词（dative verb）**。它后面第一个宾语是授与的对象、第二个宾语是授与的东西。这种句型可以视为 S + V + O 句型的一种衍生。例如：
 
-<u>The man’s wife</u> <u>gave</u> <u>him</u> <u>a jar of honey</u>.
+<u>_The man’s wife_</u> <u>_gave_</u> <u>_him_</u> <u>_a jar of honey_</u>.
 S V O O
 （此人的老婆给他一瓶蜂蜜。）
 
@@ -75,18 +75,18 @@ S V O O
 
 请注意：S + V + O + O 的句型，两个宾语出现的顺序必须是「对象在前、东西在后」，这个顺序和中文的说法相同（给「谁」「什么东西」）。如果「对象」没有放在第一个宾语的位置，就会变成 S + V + O 的句型，如下：
 
-<u>The man’s wife</u> <u>gave</u> <u>a jar of honey</u> to him.
+<u>_The man’s wife_</u> <u>_gave_</u> <u>_a jar of honey_</u> to him.
 S V O
 
 第一个宾语（对象）的位置从缺，句型会自动转变成 S + V + O。这时如果还要交代「给的对象」，已经没有地方可放，就得加个介词to、制造出介词短语to him 来表示（这个介词短语当副词使用、修饰动词 gave）。再看一个例子：
 
-<u>I</u> <u>teach</u> <u>my son</u> <u>English</u>.
+<u>_I_</u> <u>_teach_</u> <u>_my son_</u> <u>_English_</u>.
 S V O O
 （我教我儿子学英文。）
 
 动词 teach 有两个宾语，第一个宾语 my son 是教的「对象」、第二个宾语English 是教给他的「东西」。如果第一个宾语的位置从缺，那么句型就会变成 S + V + O。如果后面还要交代「对象」的话就得动用介词短语来交代，如下：
 
-<u>I</u> <u>teach</u> <u>English</u> to my son.
+<u>_I_</u> <u>_teach_</u> <u>_English_</u> to my son.
 S V O
 
 ## 四. S + V + C
@@ -95,11 +95,11 @@ S V O
 
 在句子的述部，一般都是由动词来承担最主要的叙述工作、由动词来交代主语「怎么样」。但是，如果动词只解释为「是」，这种动词完全是空的、没有任何叙述能力。所有的叙述都往后转移、在「是」的后面才真正开始叙述主语「怎么样」，那就是「补语」的部分。请看两个例子：
 
-<u>The dog</u> <u>was</u> <u>a bulldog</u>.
+<u>_The dog_</u> <u>_was_</u> <u>_a bulldog_</u>.
 S V C
 （那是只斗牛犬。）
 
-<u>The dog</u> <u>was</u> <u>mean</u>.
+<u>_The dog_</u> <u>_was_</u> <u>_mean_</u>.
 S V C
 （那只狗很凶。）
 
@@ -107,38 +107,38 @@ S V C
 
 请看看下面这些例子：
 
-That purse <u>looks</u> pretty. (那个包包很好看。)  
-The question <u>seems</u> easy. (这个问题好像很容易。)    
-Your friend <u>appears</u> quite a gentleman. (你的朋友似乎是个十足的绅士。)    
-Your suggestion <u>sounds</u> exciting. (你的提议听起来很刺激。)    
-The woman <u>feels</u> dizzy. (这个女人感觉头晕。)    
-The wine <u>tastes</u> sweet. (酒有甜味。)  
-The man <u>remains</u> single. (此人继续保持单身。)  
-The player <u>turned</u> professional. (这位球员转入职业。)  
-The drug <u>proved</u> effective. (药证实有效。)  
-The actor <u>became</u> a big star. (这位演员成了大明星。)  
-A school teacher <u>makes</u> a good wife. (娶小学老师当老婆很不错。)  
+That purse <u>_looks_</u> pretty. (那个包包很好看。)  
+The question <u>_seems_</u> easy. (这个问题好像很容易。)    
+Your friend <u>_appears_</u> quite a gentleman. (你的朋友似乎是个十足的绅士。)    
+Your suggestion <u>_sounds_</u> exciting. (你的提议听起来很刺激。)    
+The woman <u>_feels_</u> dizzy. (这个女人感觉头晕。)    
+The wine <u>_tastes_</u> sweet. (酒有甜味。)  
+The man <u>_remains_</u> single. (此人继续保持单身。)  
+The player <u>_turned_</u> professional. (这位球员转入职业。)  
+The drug <u>_proved_</u> effective. (药证实有效。)  
+The actor <u>_became_</u> a big star. (这位演员成了大明星。)  
+A school teacher <u>_makes_</u> a good wife. (娶小学老师当老婆很不错。)  
 
 这些句子都是 S + V + C 的句型，画底线部分都是所谓的系动词，真正在做叙述工作的都是动词后面的补语部分。这种句型有一个很简便的检验方法：把动词换成be 动词（纯粹的「是」），意思仍然差不多：
 
-That purse <u>is</u> pretty.  
-The question <u>is</u> easy.  
-Your friend <u>is</u> quite a gentleman.  
-Your suggestion <u>is</u> exciting.  
-The woman <u>is</u> dizzy.  
-The wine <u>is</u> sweet.  
-The schoolmates <u>were</u> friends for life.  
-The man <u>is</u> single.  
-The player <u>was</u> professional.  
-The drug <u>was</u> effective.  
-The actor <u>was</u> a big star.  
-A school teacher <u>is</u> a good wife.  
+That purse <u>_is_</u> pretty.  
+The question <u>_is_</u> easy.  
+Your friend <u>_is_</u> quite a gentleman.  
+Your suggestion <u>_is_</u> exciting.  
+The woman <u>_is_</u> dizzy.  
+The wine <u>_is_</u> sweet.  
+The schoolmates <u>_were_</u> friends for life.  
+The man <u>_is_</u> single.  
+The player <u>_was_</u> professional.  
+The drug <u>_was_</u> effective.  
+The actor <u>_was_</u> a big star.  
+A school teacher <u>_is_</u> a good wife.  
 
 因为，look「看起来是」、seem「似乎是」、appear「显得是」、become「成为」、prove「证实为」等等，所有的系动词其实都是各种各样的「是」。这种动词都和 be 词一样，缺乏叙述能力，只能扮演「连缀」的角色，把主语和补语串连起来。真正的叙述工作要靠后面的补语来做。
 
 ## 五. S + V + O + C
 
-<u>The man’s wife</u> <u>called</u> <u>him</u> <u>Honey</u>.
+<u>_The man’s wife_</u> <u>_called_</u> <u>_him_</u> <u>_Honey_</u>.
 S V O C
 （他老婆叫他 Honey。）
 
@@ -148,17 +148,17 @@ S V O C
 
 下面这些例子，画底线部分分别是宾语（O）与补语（C）。请读者试试看，拿宾语出来当主语、中间加个be 动词，后面的补语就变成主语补语。结果将是上一节列出的那些 S + V + C 的句子。
 
-I find <u>the purse</u> <u>pretty</u>. （我觉得这个包包很漂亮。）  
-The tip made <u>the question</u> <u>easy</u>. （因为有提示，所以问题变得很容易。）  
-I consider <u>the man</u> <u>quite a gentleman</u>. （我认为此是个十足的绅士。）  
-The boss found <u>your suggestion</u> <u>exciting</u>. （老板觉得你的提议很刺激。）  
-The bus ride made <u>the woman</u> <u>dizzy</u>. （搭巴士让这个女人感觉头晕。）  
-I find <u>the wine</u> <u>sweet</u>. （我觉得酒有甜味。 ）   
-The man’s poverty kept <u>him</u> <u>single</u>. （此人的贫穷使他继续保持单身。）  
-The victory made <u>the player</u> <u>professional</u>. (这场胜历史这位球员转入职业。)  
-The doctor proclaimed <u>the drug</u> <u>effective</u>. （医生宣称这种药有效。）  
-The hit movie made <u>the actor</u> <u>a big star</u>. （这部轰动的电影使这位演员成了大明星。 ）  
-Most people consider <u>a school teacher</u> <u>a good wife</u>. （大多数人认为小学老师是理想的太太。 ）  
+I find <u>_the purse_</u> <u>_pretty_</u>. （我觉得这个包包很漂亮。）  
+The tip made <u>_the question_</u> <u>_easy_</u>. （因为有提示，所以问题变得很容易。）  
+I consider <u>_the man_</u> <u>_quite a gentleman_</u>. （我认为此是个十足的绅士。）  
+The boss found <u>_your suggestion_</u> <u>_exciting_</u>. （老板觉得你的提议很刺激。）  
+The bus ride made <u>_the woman_</u> <u>_dizzy_</u>. （搭巴士让这个女人感觉头晕。）  
+I find <u>_the wine_</u> <u>_sweet_</u>. （我觉得酒有甜味。 ）   
+The man’s poverty kept <u>_him_</u> <u>_single_</u>. （此人的贫穷使他继续保持单身。）  
+The victory made <u>_the player_</u> <u>_professional_</u>. (这场胜历史这位球员转入职业。)  
+The doctor proclaimed <u>_the drug_</u> <u>_effective_</u>. （医生宣称这种药有效。）  
+The hit movie made <u>_the actor_</u> <u>_a big star_</u>. （这部轰动的电影使这位演员成了大明星。 ）  
+Most people consider <u>_a school teacher_</u> <u>_a good wife_</u>. （大多数人认为小学老师是理想的太太。 ）  
 
 ## 补语的词类
 
@@ -166,11 +166,11 @@ Most people consider <u>a school teacher</u> <u>a good wife</u>. （大多数人
 
 ## 一. 名词补语
 
-<u>John</u> <u>is</u> <u>my best friend</u>.
+<u>_John_</u> <u>_is_</u> <u>_my best friend_</u>.
 S V C
 （John 是我最好的朋友。）
 
-<u>I</u> <u>consider</u> <u>John</u> <u>my best friend</u>.
+<u>_I_</u> <u>_consider_</u> <u>_John_</u> <u>_my best friend_</u>.
 S V O C
 （我认为 John 是我最好的朋友。）
 
@@ -178,11 +178,11 @@ S V O C
 
 ## 二. 形容词补语
 
-<u>John</u> <u>looks</u> <u>happy</u>.
+<u>_John_</u> <u>_looks_</u> <u>_happy_</u>.
 S V C
 (John 看起来很高兴。)
 
-<u>The good news</u> <u>makes</u> <u>John</u> <u>happy</u>.
+<u>_The good news_</u> <u>_makes_</u> <u>_John_</u> <u>_happy_</u>.
 S V O C
 (好消息让 John 高兴。)
 
@@ -190,11 +190,11 @@ S V O C
 
 ## 三. 时间副词补语
 
-<u>The final game</u> <u>is</u> <u>tonight</u>.
+<u>_The final game_</u> <u>_is_</u> <u>_tonight_</u>.
 S V C
 (决赛在今天晚上。)
 
-<u>The sponsors</u> <u>set</u> <u>the final game</u> <u>tonight</u>.
+<u>_The sponsors_</u> <u>_set_</u> <u>_the final game_</u> <u>_tonight_</u>.
 S V O C
 (主办单位把决赛排在今天晚上。)
 
@@ -202,11 +202,11 @@ S V O C
 
 ## 四. 地方副词补语
 
-<u>The key</u> <u>is</u> <u>there</u>.
+<u>_The key_</u> <u>_is_</u> <u>_there_</u>.
 S V C
 (钥匙在那里。)
 
-<u>I</u> <u>left</u> <u>the key</u> <u>there</u>.
+<u>_I_</u> <u>_left_</u> <u>_the key_</u> <u>_there_</u>.
 S V O C
 (我把钥匙留在那里。)
 
@@ -214,11 +214,11 @@ S V O C
 
 五．介副词补语
 
-<u>The plane</u> <u>is</u> <u>down</u>.
+<u>_The plane_</u> <u>_is_</u> <u>_down_</u>.
 S V C
 (飞机着陆了。)
 
-<u>The pilot</u> <u>brought</u> <u>the plane</u> <u>down</u>.
+<u>_The pilot_</u> <u>_brought_</u> <u>_the plane_</u> <u>_down_</u>.
 S V O C
 (驾驶员带领飞机着陆。)
 
@@ -235,7 +235,7 @@ The cat meowed pitifully.
 
 句尾的 pitifully 是个副词，修饰动词 meowed，是个可有可无的修饰语，不会影响到句型。剩下来的就只有两个元素：主语 the cat 和动词 meowed。而两个元素的句型就只有 S + V 这一种：
 
-<u>The cat</u> <u>meowed</u> pitifully.
+<u>_The cat_</u> <u>_meowed_</u> pitifully.
 S V
 
 如果在主语、动词后面跟着一个副词，这个副词又是修饰动词的修饰语，那么这个句子就是两个元素的句型：S + V。
@@ -247,7 +247,7 @@ The cat caught a mouse.
 
 这个句子有主语 the cat、动词 caught，以及后面的名词短语 a mouse 这三个元素。而三个元素的句型只有 S + V + O 和S + V + C 这两种。第三个元素 a mouse 是宾语还是补语？如果是补语，那么动词改为 be 动词的话意思应该差不多。但是 The cat was a mouse.这个句子显然意思和原句不同，所以 a mouse 不是补语，那它就只能是宾语，如下：
 
-<u>The cat</u> <u>caught</u> <u>a mouse</u>.
+<u>_The cat_</u> <u>_caught_</u> <u>_a mouse_</u>.
 S V O
 
 再看一个例子：
@@ -256,7 +256,7 @@ The cat looked elegant. （猫看起来很优雅。）
 
 这也是三个元素的句型。主语是名词短语 the cat，动词是 looked，后面的形容词 elegant 是第三个元素。三个元素的句型只有 S + V + O 和 S + V + C 这两种选择，但是宾语必须是名词类，形容词 elegant 不能当宾语。所以，elegant 就只有一个可能：是补语。而检验主语补语的方式就是把动词换成be 动词试试看：The cat was elegant.意思和原句差不多，所以可以确定原句是 S + V + C 的句型，如下。
 
-<u>The cat</u> <u>looked</u> <u>elegant</u>.
+<u>_The cat_</u> <u>_looked_</u> <u>_elegant_</u>.
 S V C
 
 如果在主语、动词后面还有个形容词，这个形容词应该是主语补语，句型是 S + V + C。如果在主语、动词后面还有个名词，这个名词不是宾语就是补语，可以把动词改为 be 动词来检验：意思不变的话就是 S + V + C，否则就是 S + V + O。
@@ -268,7 +268,7 @@ The man fed the cat canned food.
 
 这个句子有四个元素：主语 the man、动词 fed、宾语 the cat，第四个元素是名词短语 canned food。而四个元素的句型只有 S + V + O + C 和 S + V + O + O 这两种选择，第四个元素不是补语就是另一个宾语。是不是宾语补语，检验方式是在宾语和补语中间加个be 动词看看通不通：the cat was canned food 这个句子显然不通，那么第四个元素就只剩一种可能：是另一个宾语，如下：
 
-<u>The man</u> <u>fed</u> <u>the cat</u> <u>canned food</u>.
+<u>_The man_</u> <u>_fed_</u> <u>_the cat_</u> <u>_canned food_</u>.
 S V O O
 
 再看一个例子：
@@ -278,7 +278,7 @@ The man called the cat “Fatty”.
 
 这也是四个元素的句型，第四个元素 Fatty 是个专有名词。它是补语还是第二个宾语？可以在中间加个be 动词来检验：The cat was Fatty.，意思和原句差不多，所以 Fatty 就是宾语补语，如下：
 
-<u>The man</u> <u>called</u> <u>the cat</u> <u>“Fatty”</u>.
+<u>_The man_</u> <u>_called_</u> <u>_the cat_</u> <u>_“Fatty”_</u>.
 S V O C
 
 如果在主语、动词、宾语后面还有个形容词，这个形容词应该是宾语补语，句型是 S + V + O + C。如果在主语、动词、宾语后面还有个名词，这个名词可能是第二个宾语、也可能是宾语补语。可以把第三、第四个元素拿出来、中间加个be 动词来检验：意思相同的话就是 S + V + O + C，否则就是 S + V + O + O 的句型。

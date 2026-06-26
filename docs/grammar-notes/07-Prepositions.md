@@ -2,25 +2,25 @@
 
 **介词（prepositions）**，从造字来看是 pre- 加上 position，意思是「放在前面的东西」。介词的用法就是放在名词前面、与名词（称为它的宾语）共同构成一个意义单元、称为介词短语，当作修饰语使用。介词短语这种修饰语可以当形容词或副词使用，是最有弹性、使用频率最高的一种修饰语。可以用来修饰名词、动词、形容词、副词等各大词类。以下是介词短语修饰各种词类的例子：
 
-<u>The company</u> is <u>in trouble</u>.
+<u>_The company_</u> is <u>_in trouble_</u>.
 名词 介词短语
 （公司有困难了。）
 
 介词短语 in trouble 当形容词使用，在句中充当主语补语、修饰主语 the company（名词）。
 
-I <u>leave</u> <u>for Hong Kong</u> tomorrow.
+I <u>_leave_</u> <u>_for Hong Kong_</u> tomorrow.
 动词 介词短语
 (我明天动身到香港去。)
 
 介词短语 for Hong Kong 当地方副词使用，修饰动词 leave。
 
-The country is <u>rich</u> <u>in mineral wealth</u>.
+The country is <u>_rich_</u> <u>_in mineral wealth_</u>.
 形容词 介词短语
 (这个国家富含矿物资源。)
 
 介词短语 in mineral wealth 当副词使用，修饰形容词 rich。
 
-The new janitor works <u>half-heartedly</u> <u>at best</u>.
+The new janitor works <u>_half-heartedly_</u> <u>_at best_</u>.
 副词 介词短语
 (新来的工友做起事情来，充其量只能说是兴趣缺缺。)
 
@@ -30,22 +30,22 @@ The new janitor works <u>half-heartedly</u> <u>at best</u>.
 
 有一种词类，看起来和介词一模一样，但是后面却没有宾语，而是直接当做副词使用。这种词类称为**介副词（particles）**，应该当作副词看待。例如：
 
-Come <u>in</u>.
+Come <u>_in_</u>.
 （请进。）
 
-The soldier stood <u>up</u>.
+The soldier stood <u>_up_</u>.
 （士兵站了起来。）
 
 第 1 句中的 in 看起来像介词，后面却没有宾语，而是直接当地方副词使用，修饰动词 come，称为介副词。第 2 句中的 up 也是介副词，直接修饰动词 stood。
 
 介副词还经常和介词共同使用，例如：
 
-The plumber <u>went down to</u> the basement.
+The plumber <u>_went down to_</u> the basement.
 （水管工人下到地下室去。）
 
 句中的 down 是个介副词，后面没有宾语、直接修饰动词 went。它后面的 to 才是介词，后接名词短语 the basement 当宾语、构成一个介词短语 to the basement，当地方副词使用，修饰动词 went。
 
-He <u>has gone over to</u> your house.
+He <u>_has gone over to_</u> your house.
 （他已经跑到你家去了。）
 
 句中的 over 是介副词，直接修饰动词 has gone。后面的 to 才是介词，后接名词短语 your house 当宾语、构成一个介词短语 to your house，当地方副词使用、修饰动词 has gone。
@@ -62,17 +62,17 @@ The man turned on the light.
 
 乍看之下两句的构造非常相似，但是句型其实并不一样。第 1 句是 S + V 的句型，如下：
 
-<u>The man</u> <u>slept</u> <u>on the couch</u>.
+<u>_The man_</u> <u>_slept_</u> <u>_on the couch_</u>.
 S V 介词短语
 
 句中的动词是 slept，后面的 on the couch 是个介词短语，当地方副词使用、修饰动词 slept 的地方。第 2 句就不同了，是 S + V + O 的句型，如下：
 
-<u>The man</u> <u>turned on</u> <u>the light</u>.
+<u>_The man_</u> <u>_turned on_</u> <u>_the light_</u>.
 S V O
 
 这时候应该把 turned on 当一个动词来看（称为短语动词），后面的 the light 是动词 turned on 的宾语。因为，如果第 2 句仍然采用第 1 句的句型来诠释，成为：
 
-<u>The man</u> <u>turned</u> <u>on the light</u>. （误）
+<u>_The man_</u> <u>_turned_</u> <u>_on the light_</u>. （误）
 S V 介词短语
 
 那么，介词短语 on the light 是个地方副词（在灯上），用来修饰动词 turned，整个句子的意思就会变成：「这名男子在灯上旋转」。这样解释显然讲不通。而是应该把 turned on 合在一起当成动词看待，意思是「打开」。
@@ -87,114 +87,114 @@ S V 介词短语
 
 #### get over 康复，痊愈
 
-It's only a cold; you'<u>ll get over it</u> soon enough.
+It's only a cold; you'<u>_ll get over it_</u> soon enough.
 (只不过是小感冒,很快就会好了。)
 
 像 get over 这种短语动词属于及物动词,应该要有宾语。而 get over 这种短语不可拆开,意思是说它的宾语只能放在后面(如 get over it),而不能放在 get 与 over 的中间。如果看到 get it over with 这种构造,那是另一个不同的短语,意思变成「趁早把事情了结」。接下来几个例子都和 get over 属于同一类(及物、不可拆开),请读者自行体会。
 
 #### look into 调查，了解
 
-The manager <u>will look into your complaint</u> at once.
+The manager <u>_will look into your complaint_</u> at once.
 （经理将就您的抱怨立即进行了解。）
 
 #### take after 类似，像
 
-Henry <u>takes after his father</u>.
+Henry <u>_takes after his father_</u>.
 （Henry很像他爸爸。）
 
 #### stand by 支援
 
-Don’t worry; I’ll <u>stand by you</u>.
+Don’t worry; I’ll <u>_stand by you_</u>.
 （别担心，我会支援你。）
 
 如果看到 stand by 后面缺乏宾语，那么表示这是另一个短语动词，属于不及物，意思是「等待，准备」。例如：
 
-Your team is next; please <u>stand by</u>.
+Your team is next; please <u>_stand by_</u>.
 （下一个轮到你们这队了，请准备。）
 
 ### 二．不及物动词
 
 #### come about 發生
 
-How did this all <u>come about</u>?
+How did this all <u>_come about_</u>?
 （這件事是怎麼發生的？）
 
-不及物的片語動詞，後面當然不會有受詞。
+不及物的动词短语，后面当然不会有宾语。
 
 #### fall off 下跌
 
-Business <u>has fallen off</u> badly since the SARS epidemic.
+Business <u>_has fallen off_</u> badly since the SARS epidemic.
 （自從SARS疫情以來，生意慘跌。）
 
 #### go off 爆炸
 
-The bomb <u>went off</u> in the middle of the night.
+The bomb <u>_went off_</u> in the middle of the night.
 （炸彈半夜爆炸了。）
 
 #### turn up 出現，出席
 
-The meeting was postponed because too few people <u>turned up</u>.
+The meeting was postponed because too few people <u>_turned up_</u>.
 （會議延期了，因為出席的人太少。）
 
 ### 三．及物动词、可以拆开（宾语可放在短语后面、也可开放在中间）
 
 #### bring up 抚养长大
 
-That woman <u>brought up eight children</u>.
-That woman <u>brought eight children up</u>.
-That woman <u>brought them up</u>.
+That woman <u>_brought up eight children_</u>.
+That woman <u>_brought eight children up_</u>.
+That woman <u>_brought them up_</u>.
 （那个女人抚养八个小孩长大。）
 
 像 bring up 这种短语动词属于及物动词，它的宾语 eight children 可以放在 bring up 的后面、也可以把 bring 与 up 拆开来放在中间。像这一类的短语动词，如果宾语是代词（如them）就不适合放在后面，而必须把短语动词拆开、宾语放中间（如brought them up）。原因在于：后面的位置是比较重要的位置，念起来重音也会落在这个位置。但是代词是比较不重要的东西，不宜念成重音。所以，只要短语动词是可以拆开的那种、而宾语又是代词，就必须拆开来把代词放在中间、把后面要念成重音的位置留给短语动词中的介副词（如 brought them up）。
 
 #### call off 取消
 
-The boss has <u>called off the meeting</u>.
-The boss has <u>called the meeting off</u>.
-The boss has <u>called it off</u>.
+The boss has <u>_called off the meeting_</u>.
+The boss has <u>_called the meeting off_</u>.
+The boss has <u>_called it off_</u>.
 （老板已经取消了会议。）
 
 #### turn down 拒绝
 
-I’m going to <u>turn down his offer</u>.
-I’m going to <u>turn his offer down</u>.
-I’m going to <u>turn it down</u>.
+I’m going to <u>_turn down his offer_</u>.
+I’m going to <u>_turn his offer down_</u>.
+I’m going to <u>_turn it down_</u>.
 （我将拒绝他的提议。）
 
 #### make up 捏造，编造
 
-He <u>made up a long story</u>.
-He <u>made a long story up</u>.
-He <u>made it up</u>.
+He <u>_made up a long story_</u>.
+He <u>_made a long story up_</u>.
+He <u>_made it up_</u>.
 （他编造了一个很长的故事。）
 
 如果看到 make up 的后面缺乏宾语，那表示它是另一个短语动词，属于不及物，意思是「合好」，例如：
 
-He and his separated wife finally <u>made up</u>.
+He and his separated wife finally <u>_made up_</u>.
 （他和分居的老婆终于合好了。）
 
 ### 四．三个字以上的短语动词，及物、不可拆开（宾语应放在后面）
 
 #### catch up with 赶上
 
-He'<u>s slowly catching up with his classmates</u> in exam grades.
+He'<u>_s slowly catching up with his classmates_</u> in exam grades.
 （他的考试成绩渐渐赶上同班同学了。）
 
 从前的语法书称短语动词为「双字动词」（two-word verbs），但是这个名称不很贴切，因为短语动词有时候不只两个字，例如 catch up with。短语动词如果是三个字，通常第一个是动词（如catch）、第二个是介副词（如 up）、第三个是介词（如 with）。因为第三个是介词，后面必须有宾语，所以凡是这种三个字以上的短语动词都是及物动词，而且都不可拆、宾语一定要放在后面。以下几个例子都是同样的情况。
 
 #### drop out of 退出，中辍
 
-John hurt his leg and had to <u>drop out of the race</u>.
+John hurt his leg and had to <u>_drop out of the race_</u>.
 (John腿受伤，不得不退出比赛。)
 
 #### get away with 侥幸逃脱，全身而退
 
-If you take the money, you can't expect to <u>get away with it</u>.
+If you take the money, you can't expect to <u>_get away with it_</u>.
 (你要是敢拿钱，就别想全身而退。)
 
 #### go back on 食言，说话不算
 
-I promised my kid a new notebook, so I can't <u>go back on my word</u> n​​ow.
+I promised my kid a new notebook, so I can't <u>_go back on my word_</u> n​​ow.
 (我答应小孩要买一台新笔电，现在不能说了不算。)
 
 以上所做的主要是分类的工作，介绍一下短语动词有哪些种类。在此有限的空间当然无法列举周全。短语动词的情况和介词类似，最好是经过广读、广泛地接触吸收，慢慢就会知道该怎么用。
@@ -205,73 +205,73 @@ I promised my kid a new notebook, so I can't <u>go back on my word</u> n​​ow
 
 ### 一、点：at
 
-The bus <u>will stop</u> <u>at the dock</u> to pick up passengers.
+The bus <u>_will stop_</u> <u>_at the dock_</u> to pick up passengers.
 (巴士在码头将停下来载客。)
 
 在巴士的行驶路线上，码头是一个「点」、来到这个点要停。属于「点」的空间概念，通常用 at 这个介词来表示。
 
-We <u>have arrived</u> <u>at our destination</u>.
+We <u>_have arrived_</u> <u>_at our destination_</u>.
 (我们已经抵达了我们的目的地。)
 
 在旅程中，目的地是个「终点」。
 
-The sniper <u>is aiming</u> <u>at the kidnapper</u>.
+The sniper <u>_is aiming_</u> <u>_at the kidnapper_</u>.
 (狙击手在瞄准绑票犯。)
 
 用枪瞄准目标时，这个目标就是一个「瞄准点」。
 
-The instructor <u>points to</u> the poster on the wall and says, “Never <u>point</u> your gun <u>at anybody</u>.”
+The instructor <u>_points to_</u> the poster on the wall and says, “Never <u>_point_</u> your gun <u>_at anybody_</u>.”
 (教官指向墙上的海报，说：「绝不要用枪瞄准任何人。」)
 
 如果是「指向某个方向」，应该说 point to，这个介词 to 相当于 toward 的用法。如果说「瞄准」，那是把目标当成一个定点，就该说 point at。
 
 ### 二、线：on, along
 
-The student memorized 10 new words <u>on his way</u> to school.
+The student memorized 10 new words <u>_on his way_</u> to school.
 (这个学生在上学途中记了十个新单词。)
 
 从家里到学校是一条「线」状的路程。属于「线」的空间观念通常以 on 或 along 来表现。
 
-There are many beautiful villas <u>along the beach</u>.
+There are many beautiful villas <u>_along the beach_</u>.
 (沿着海滩有许多美丽的别墅。)
 
 海滩可以视为海与陆地交界的一条「线」，介词采用 along 或者 on 都可以。
 
-I see three bookstores <u>on this street</u>.
+I see three bookstores <u>_on this street_</u>.
 (我看到这条街上有三家书店。)
 
 一条街，是「线」形的构造，介词可用 along 或 on。
 
 ### 三、面：on
 
-I strained my eyes but couldn't see any ship <u>on the sea</u>.
+I strained my eyes but couldn't see any ship <u>_on the sea_</u>.
 (我亟目眺望，但是海面上看不到有船。)
 
 「海面」是个平面。在平面上，通常用 on 这个介词来表示。
 
-There’s a picture hanging <u>on the wall</u>.
+There’s a picture hanging <u>_on the wall_</u>.
 (墙上挂了张画。)
 
 「墙面」也是个平面，所以用 on 这个介词。
 
-The speaker is standing <u>on the platform</u>.
+The speaker is standing <u>_on the platform_</u>.
 (演说者站在讲台上。)
 
 讲台的上面是个平面，所以用 on 表示。
 
 ### 四、体：in
 
-I like to stay <u>in my office</u> because it's quiet there.
+I like to stay <u>_in my office_</u> because it's quiet there.
 (我喜欢待在自己办公室里头，因为很安静。)
 
 所谓「点、线、面、体」的认定，其实是主观的。上面这个句子表示「办公室里头很安静」，那是把办公室视为一个具有长、宽、高的立体看待，所以介词用in。但是下面这个例子就不一样了：
 
-We'll go our separate ways, and meet <u>at my office</u> at three.
+We'll go our separate ways, and meet <u>_at my office_</u> at three.
 (我们各走各的，三点钟在我办公室碰面。)
 
 这个句子是在约碰面的「地点」，所以是把办公室视为一个「点」看待，因此介词用 at。
 
-I think I'll walk; there are too many cars <u>in the street</u>.
+I think I'll walk; there are too many cars <u>_in the street_</u>.
 (我想我走路好了，街上车子太多了。)
 
 如果把街道视为一条线，介词应该用 on 或 along。但是上面这个句子是把街道视为一个立体空间，说里头的车子太多了，这时就该用 in。
@@ -280,22 +280,22 @@ I think I'll walk; there are too many cars <u>in the street</u>.
 
 空间介词有时候是用来作比喻，并不是真正用来表示空间。例如：
 
-That shameless man is <u>beneath contempt</u>.
+That shameless man is <u>_beneath contempt_</u>.
 (那个无耻的人简直太令人瞧不起了。)
 
 介词短语 beneath contempt 字面上是「比轻蔑更低」，这是空间介词的比喻用法，表示「令人瞧不起」。
 
-What the lecturer is saying is quite <u>beyond my comprehension</u>.
+What the lecturer is saying is quite <u>_beyond my comprehension_</u>.
 (演讲人所说的话我完全听不懂。)
 
 介词短语 beyond my comprehension 字面上是「超越我理解的范围之外」，这也是空间介词的比喻用法，表示「不懂」。
 
-His objection is quite <u>beside the point</u>.
+His objection is quite <u>_beside the point_</u>.
 (他的反对意见完全离题了。)
 
 介词短语 beside the point 字面上是「偏离了重点」，以此比喻「离题、与主题无关」
 
-It's sometimes difficult to live <u>within one's income</u>.
+It's sometimes difficult to live <u>_within one's income_</u>.
 (要量入为出，​​有时候很困难。)
 
 介词短语 within one's income 字面上是「在个人收入范围之内」，这是用空间介词来比喻「不透支」。
@@ -304,26 +304,26 @@ It's sometimes difficult to live <u>within one's income</u>.
 
 比较常用的时间介词有 in, on, at 这些。如果表达的是一个时间的「定点」、非常短的时间，通常用 at 这个介词，例如：
 
-I’ll meet you <u>at six o’clock</u>.
+I’ll meet you <u>_at six o’clock_</u>.
 (我们六点钟见。)
 
 「六点钟」是个时间上的「定点」，介词应该用 at。类似的例子有：at noon, at midnight, at dinner, at sunrise, at sunset 等等。比较特别的是 at night：虽然「夜晚」的时间比较长，但仍要使用 at 这个介词。这没有什么道理可讲，而是语言习惯使然。
 
 如果是一段比较长的时间，通常用 in 这个介词来表示，例如：
 
-I do most of my work <u>in the morning</u>.
+I do most of my work <u>_in the morning_</u>.
 (我大部分的事情都是在早上处理。)
 
 「早上」是「一段时间」，介词应该用 in。类似的例子有：in the evening, in M​​ay, in summer, in 2007 等等。
 
 如果表示出来「哪一天」，如星期、日期、节日等等，通常要用 on 这个介词，例如：
 
-My birthday is <u>on January 23</u>.
+My birthday is <u>_on January 23_</u>.
 (我的生日是元月23日。)
 
 讲出「元月23日」这天，介词应该用 on。另外像 on Monday, on New Year's Day 等等，介词都要用 on。甚至包括与 the morning, the evening 之类并用时，只要有讲出哪一天，介词仍然是用 on。例如：
 
-The accident happened <u>on the morning of June 20</u>.
+The accident happened <u>_on the morning of June 20_</u>.
 (意外发生在六月20日早上。)
 
 ## 其他介词
@@ -334,101 +334,101 @@ The accident happened <u>on the morning of June 20</u>.
 
 这个介词有两种不同的用法。它可以相当于 except for，表示「除了……之外就没了」，例如：
 
-We had no trouble on the way <u>apart from</u>(= except for) <u>a flat tire</u>.
+We had no trouble on the way <u>_apart from_</u>(= except for) <u>_a flat tire_</u>.
 (我们一路都没碰到问题，除了一枚轮胎没气。)
 
 但是它也可以相当于 in addition to，表示「除了……之外还有」，例如：
 
-<u>Apart from</u>(= in addition to) <u>a flat tire</u>, we also ran out of gas.
+<u>_Apart from_</u>(= in addition to) <u>_a flat tire_</u>, we also ran out of gas.
 (除了轮胎没气之外，我们还用光了汽油。)
 
 ### as for 至于
 
 这个介词在写作时很好用，可以用在逐条列举、也可以用来列举呈对比的项目，例如：
 
-I don't blame you. <u>As for your friend</u>, he has behaved very badly.
+I don't blame you. <u>_As for your friend_</u>, he has behaved very badly.
 (我并不怪你。至于你的朋友，他的行为就很差劲。)
 
 ### for 为了…，以（价钱），支援
 
 这是个常用的介词，有好几种解释。
 
-This document is <u>for your information</u> only.
+This document is <u>_for your information_</u> only.
 (本文件只供你个人参考之用)
 
-I bought the book <u>for 200 dollars</u>.
+I bought the book <u>_for 200 dollars_</u>.
 (这本书是我花200元买的。)
 
-Are you <u>for the tax cut</u>?
+Are you <u>_for the tax cut_</u>?
 (你支援减税案吗？)
 
 ### of ……的
 
 这是出现频率最高的介词之一，有好几种用法。
 
-These shoes are <u>made of rubber</u>.
+These shoes are <u>_made of rubber_</u>.
 (这双鞋是橡胶做的。)
 
-Holland is a part <u>of Europe</u>.
+Holland is a part <u>_of Europe_</u>.
 (荷兰是欧洲的一部分。)
 
-I think <u>of you often</u>.
+I think <u>_of you often_</u>.
 (我经常会想念你。)
 
-The arrival <u>of the train caused</u> a big stir on the platform.
+The arrival <u>_of the train caused_</u> a big stir on the platform.
 (火车的抵达在月台上掀起一阵骚动。)
 
 ### at 以（价钱或速度）
 
-We joined the tour <u>at $3,000</u> per person.
+We joined the tour <u>_at $3,000_</u> per person.
 (我们以每人3,000元的价格参加了旅行团。)
 
-The car was going <u>at 90 km</u> per hour.
+The car was going <u>_at 90 km_</u> per hour.
 (车子当时以每小时90公里的速度行进。)
 
 ### but 除了
 
 通常 but 是并列连词，但也可以当介词使用，用法相当于 except。
 
-No one <u>but</u>(= except) <u>a fool</u> would accept a challenge like that.
+No one <u>_but_</u>(= except) <u>_a fool_</u> would accept a challenge like that.
 (除了傻瓜，没有人会接受这样的挑战。)
 
 ### in 以（表达方式）
 
-How do you say that <u>in English</u>?
+How do you say that <u>_in English_</u>?
 (这句话用英文怎么说？)
 
-He signed his name <u>in black ink</u>.
+He signed his name <u>_in black ink_</u>.
 (他以黑墨水签下名字。)
 
 ### up to 由 …… 决定，可以胜任，在从事（或计画）
 
 这个介词有好几种不同的意思，请读者由例句中自行判读。
 
-It’s not <u>up to me</u> to decide.
+It’s not <u>_up to me_</u> to decide.
 (这件事不是由我来决定的。)
 
-I’m not <u>up to this job</u>.
+I’m not <u>_up to this job_</u>.
 (我个工作我胜任不了。)
 
-Do you know <u>what</u> Tom has been <u>up to</u> recently?
+Do you know <u>_what_</u> Tom has been <u>_up to_</u> recently?
 (你知道汤姆最近在搞什么鬼吗？)
 
 ### between / among 在 … 之间
 
 一般语法书说 between 用于表示两者之间，among 则是三者以上。这个区别大致说来是可以接受的，可是要拿它当规则来背，就会有例外。其实这两个介词的差别主要不在两个与多个之差，而在于：between 有标示位置的功能（意思是「夹在中间」），among 则没有（只表示「其中，之中」 ）。例如：
 
-The Rhine flows <u>between France and Germany</u>.
+The Rhine flows <u>_between France and Germany_</u>.
 (莱茵河流经法国与德国中间。)
 
 「两个中间」用 between，这个例子刚好是法国和德国这「两个」，所以用 between。不过，采用between真正的理由并不在于「两个」、而在于「夹在中间」：莱茵河夹在法国德国中间，所以要用 between。换句话说，在这里采用 between 是因为具有标示位置的功能。
 
-<u>Among the major cities</u> in the world, Shanghai is probably developing most rapidly.
+<u>_Among the major cities_</u> in the world, Shanghai is probably developing most rapidly.
 (在世界各大城市之中，上海很可能是目前发展最快速的。)
 
 「三个以上」用 among，这个例子提到的 the major cities in the world 有许多个，所以用 among。不过，这里采用 among 的真正理由也不在于「三个以上」，而是在于：这个上下文完全没有标示位置的功能，只表示「其中、之中」。请看下例：
 
-Switzerland lies <u>between France, Germany, Austria, and Italy</u>.
+Switzerland lies <u>_between France, Germany, Austria, and Italy_</u>.
 (瑞士位于法国、德国、奥地利与义大利中间。)
 
 在这个例子中，between 后面有四个国家，可是仍然要用 between，主要是因为现在是用这四个国家来标示位置，把瑞士「夹在中间」，而不是笼统地表示「其中、之中」。既然有标示位置的功能，就应该用 between。
@@ -437,61 +437,61 @@ Switzerland lies <u>between France, Germany, Austria, and Italy</u>.
 
 一般的情况下，except for 和 except 的用法与意思都差不多。但是放在句首时只能用 except for，不能用 except。
 
-You can all go <u>except George</u>.
-You can all go <u>except for George</u>.
-<u>Except for George</u>, you can all go.
+You can all go <u>_except George_</u>.
+You can all go <u>_except for George_</u>.
+<u>_Except for George_</u>, you can all go.
 (大家都能去，除了乔治。)
 
 ### on / about （谈论）关于…
 
 文章或演说的主题，如果采比较正式的口吻、比较专业或学术化，就应该用 on 这个介词来表示。如果是非正式的口吻，用 about 就行了。
 
-He has written a book <u>on the temples</u> of the Upper Nile.
+He has written a book <u>_on the temples_</u> of the Upper Nile.
 (他写了一本书论尼罗河上游的庙宇。)
 
-He’s talking <u>about his childhood</u>.
+He’s talking <u>_about his childhood_</u>.
 (他在谈他的童年。)
 
 ### over 关于…
 
 如果是「争论」的话题，通常要用 over 这个介词来表示，例如：
 
-They're arguing <u>over their share</u> of the property.
+They're arguing <u>_over their share_</u> of the property.
 (他们在争这份财产要怎么分。)
 
 ### through 经由……，靠……
 
 这个介词可以表示「途径」或「手段」，例如：
 
-He achieved fame <u>through sheer hard work</u>.
+He achieved fame <u>_through sheer hard work_</u>.
 (他纯粹是靠苦干而成名的。)
 
 ## 普通名词抽象化
 
 在第二章介绍名词短语时，我们提过「普通名词抽象化」这个观念，例如：
 
-I think I’ll <u>go by bus</u>.
+I think I’ll <u>_go by bus_</u>.
 (我想我搭巴士去好了。)
 
 用在 go by bus 这个短语中，bus 已经不再是一辆具体、有形的车辆，而是代表一种「交通方式」。这是把普通名词 bus 当作抽象名词使用，因此可以采用零冠词。但是，如果在 bus 前面有形容词、构成一个名词短语，那么它又会恢复普通名词的身分、必须有限定词，例如：
 
-I’ll go <u>by the 5:30 bus</u>.
+I’ll go <u>_by the 5:30 bus_</u>.
 (我搭五点半那班巴士好了。)
 
 说出是五点半「那班」，这是明确指出要搭「哪一班」巴士，所以还是要加定冠词 the。
 
-He usually <u>goes to bed</u> before 11:00.
+He usually <u>_goes to bed_</u> before 11:00.
 (他通常是十一点之前就寝。)
 
-He’s <u>going toward the bed</u>.
+He’s <u>_going toward the bed_</u>.
 (他向床走过去。)
 
 第 1 句里面的 go to bed是 个特定的短语，表示「上床睡觉」，这时候 bed 这个普通名词要采抽象化处理、加零冠词。但是如果介词换成 toward、成为 go toward the bed，意思就不再是「上床睡觉」，而是「朝那张床走过去」。这时候 bed 仍然是个普通名词，必须有限定词。
 
-I love to travel <u>by sea</u>.
+I love to travel <u>_by sea_</u>.
 (我喜欢航海旅行。)
 
-I have a small house <u>by the sea</u>.
+I have a small house <u>_by the sea_</u>.
 (我在海边有栋小房子。)
 
 第 1 句中的 travel by sea 是个特定短语，表示「以航海的方式旅行」，这时候 sea 不再是普通名词，而是以 by sea 来表示某种交通方式，因此 sea 可以视为抽象名词看待、前面用零冠词。但是，如果意思是「在海边」，那么 sea 不再是一种抽象的「交通方式」、而是具体的「海洋」，就需要有限定词。
@@ -500,30 +500,30 @@ I have a small house <u>by the sea</u>.
 
 如上所述，介词短语是很有弹性的修饰语，可以当作形容词或副词使用。介词短语在句中的位置，通常是放在它所修饰对象的后面作后位修饰语使用，例如：
 
-I love to <u>read</u> <u>books</u> <u>with pictures in my leisure time</u>.
+I love to <u>_read_</u> <u>_books_</u> <u>_with pictures in my leisure time_</u>.
 (我有空的时候很喜欢阅读有插画的书。)
 
 介词短语 with pictures 当形容词使用，修饰名词 books，放在名词后面的位置。另一个介词短语 in my leisure time 当时间副词使用，修饰 read 的时间，放在句尾位置。
 
 使用介词短语和使用其他的修饰语一样，都得小心不要犯模棱两可的错误。例如：
 
-The secretary <u>had to retype</u> the letter which she <u>had been working on</u> <u>under the order of the manager</u>. （不佳）
+The secretary <u>_had to retype_</u> the letter which she <u>_had been working on_</u> <u>_under the order of the manager_</u>. （不佳）
 
 这个句子写得不好，因为介词短语 under the order of the manager 放的位置既是全句的句尾、又是关系从句的句尾，所以它可以修饰主要从句的动词 had to retype 、也可以修饰关系从句的动词 had been working on，造成模棱两可的结果。可以分别修改如下：
 
-<u>Under the order of the manager</u>, the secretary <u>had to retype</u> the letter which she had been working on.
+<u>_Under the order of the manager_</u>, the secretary <u>_had to retype_</u> the letter which she had been working on.
 (在经理命令之下，秘书不得不重打那封她一直在处理的信件。)
 
-The secretary had to retype the letter which, <u>under the order of the manager</u>, she <u>had been working on</u>.
+The secretary had to retype the letter which, <u>_under the order of the manager_</u>, she <u>_had been working on_</u>.
 (秘书必须重打那封她奉经理之命一直在处理的信件。)
 
 再看一个例子：
 
-I <u>saw</u> that many houses <u>were destroyed</u> by fire <u>on TV</u>. （不佳）
+I <u>_saw_</u> that many houses <u>_were destroyed_</u> by fire <u>_on TV_</u>. （不佳）
 
 介词短语 by fire 放在被动态的动词 were destroyed 后面修饰它，意思很清楚（「被火烧毁」）。但是另一个介词短语 on TV 是个地方副词，放在这个位置一方面是全句的句尾、另一方面又是名词从句（that从句）的句尾，所以它可以修饰主要从句的动词 saw、也可以修饰名词从句的动词 were destroyed，造成模棱两可的结果。应修改如下：
 
-<u>On TV</u> I <u>saw</u> that many houses were destroyed by fire.
+<u>_On TV_</u> I <u>_saw_</u> that many houses were destroyed by fire.
 (在电视上我看到许多房子被火烧毁。)
 
 把介词短语 on TV 移到句首，它就只能够修饰主要从句的动词 saw，意思也就变清楚了。
