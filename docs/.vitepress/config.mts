@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/grammar-club/',
   title: "Grammar Club",
   description: "从单句到减化子句的英文句型地图",
   themeConfig: {

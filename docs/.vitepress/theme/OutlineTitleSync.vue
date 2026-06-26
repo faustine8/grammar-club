@@ -19,6 +19,10 @@ function currentPageTitle() {
 }
 
 function syncOutlineTitle() {
+  if (typeof document === 'undefined') {
+    return
+  }
+
   nextTick(() => {
     const outlineTitle = document.getElementById('doc-outline-aria-label')
 
