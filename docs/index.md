@@ -4,12 +4,12 @@ layout: home
 
 hero:
   name: "Grammer Club Advance"
-  text: "A Grammer Notes Document Site"
-  tagline: My great project tagline
+  # text: "A Grammer Notes Document Site"
+  # tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Advance
+      link: /grammar-notes/01-SimpleSentences.md
     - theme: alt
       text: API Examples
       link: /api-examples
