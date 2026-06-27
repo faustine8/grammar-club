@@ -7,7 +7,7 @@
 I like Beijing food, <u>_especially roast duck_</u>.
 （我喜欢北京菜，尤其是烤鸭。）
 
-句中的especially这个副词是个**强调范围的副词（focusing adverb）**，可以直接用来修饰名词短语 roast duck。所以，要想弄清楚副词的用法，就必须知道副词有哪几种、每一种该怎么使用。这样在写作时才能避免错误。
+句中的 especially 这个副词是个**强调范围的副词（focusing adverb）**，可以直接用来修饰名词短语 roast duck。所以，要想弄清楚副词的用法，就必须知道副词有哪几种、每一种该怎么使用。这样在写作时才能避免错误。
 
 ## 副词的种类与在句中的位置
 
@@ -94,7 +94,7 @@ S V O O (adv.)
 S (adv.) V O O
 (学生很有礼貌地问了演说人一个问题。)
 
-方法状态的副词 politely 放在动词asked前面、修饰动词。另一个可能的位置是放在句尾、两个宾语的后面：asked the speaker a question politely。
+方法状态的副词 politely 放在动词 asked 前面、修饰动词。另一个可能的位置是放在句尾、两个宾语的后面：asked the speaker a question politely。
 
 #### 5).S + V + O + C
 
@@ -113,12 +113,12 @@ S V O C (adv.)
 I <u>_usually get up_</u> very early.
 (我通常起得很早。)
 
-频率副词usually修饰动词get up，放在动词前面。
+频率副词 usually 修饰动词 get up，放在动词前面。
 
 His jokes <u>_are often_</u> not funny at all.
 (他说的笑话常常根本不好笑。)
 
-频率副词often修饰动词are，放在它后面。
+频率副词 often 修饰动词 are，放在它后面。
 
 I <u>_have never seen_</u> this man before.
 (我以前从来没见过这个人。)
@@ -157,7 +157,7 @@ John <u>_only saw_</u> the boss yesterday. (约翰昨天只是见到了老板。
 John saw <u>_only the boss_</u> yesterday.
 (约翰昨天见到的只有老板一人。)
 
-意思是说并没有见到别的人。副词only修饰的是名词短语the boss。请注意：only 是副词，修饰名词短语 the boss 时位置是放在整个名词短语的前面（成为only the boss）。如果是形容词，那么位置不是在名词短语前面、而应该在名词短语中间，例如 the young boss，中间的 young 才是形容词。
+意思是说并没有见到别的人。副词 only 修饰的是名词短语 the boss。请注意：only 是副词，修饰名词短语 the boss 时位置是放在整个名词短语的前面（成为 only the boss）。如果是形容词，那么位置不是在名词短语前面、而应该在名词短语中间，例如 the young boss，中间的 young 才是形容词。
 
 John saw the boss <u>_only yesterday_</u>.
 (约翰到昨天才见到了老板。)
@@ -242,7 +242,7 @@ Sales have increased 20%; <u>_besides_</u>, production cost has come down.
 <u>_Consequently_</u>, we should have no problem reaching our goals this year.
 (因此,我们达成今年的目标应该没有问题。)
 
-这句话和上一句之间有因果关系，用 consequently 这个连接副词表示。连接副词的意思类似连词so，但是并不具备连接两个从句的语法功能,所以和上一句之间用句点断开、另起一句。
+这句话和上一句之间有因果关系，用 consequently 这个连接副词表示。连接副词的意思类似连词 so，但是并不具备连接两个从句的语法功能,所以和上一句之间用句点断开、另起一句。
 
 <u>_However_</u>, projections for the next fiscal year are not very optimistic.
 (不过,下一个会计年度的预期却不甚乐观。)
@@ -399,7 +399,7 @@ The man was seen to be <u>_clearly dying_</u>.
 
 He <u>_confessed_</u> that he had been <u>_abusing_</u> his wife <u>_openly_</u>. （不佳）
 
-方法状态的副词 openly 放在这个位置，既是主要从句的句尾、又是名词从句（that从句）的句尾。它修饰的对象到底是主要从句的动词 confess 还是名词从句的动词 abuse，并不清楚，所以是不好的句子。可分别修改如下：
+方法状态的副词 openly 放在这个位置，既是主要从句的句尾、又是名词从句（that 从句）的句尾。它修饰的对象到底是主要从句的动词 confess 还是名词从句的动词 abuse，并不清楚，所以是不好的句子。可分别修改如下：
 
 He <u>_openly confessed_</u> that he had been abusing his wife.
 （他公开承认他有在虐待他老婆。）

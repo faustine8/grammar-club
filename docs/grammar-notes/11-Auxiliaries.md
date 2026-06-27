@@ -61,7 +61,7 @@ He said we <u>_must_</u> all <u>_keep_</u> together.
 
 #### will/would
 
-表示「愿意，决心，承诺」时，will/would属于语气助动词。这一对语气助动词在一般用法中具有时态的差别，例如：
+表示「愿意，决心，承诺」时，will/would 属于语气助动词。这一对语气助动词在一般用法中具有时态的差别，例如：
 
 I <u>_will have_</u> my own way.
 (我决定照自己的意思做。)（现在时间的未来）
@@ -69,7 +69,7 @@ I <u>_will have_</u> my own way.
 He <u>_said_</u> he <u>_would have_</u> his own way.
 (他说他决定照自己的意思做。)（过去时间的未来）
 
-如果是过去时间，应该采过去拼法的would来表示。不过，would这种拼法却也可以用在「现在时间」，例如：
+如果是过去时间，应该采过去拼法的 would 来表示。不过，would 这种拼法却也可以用在「现在时间」，例如：
 
 <u>_Would_</u> you <u>_like_</u> a cup of coffee?
 (要来杯咖啡吗？)
@@ -226,7 +226,7 @@ Check the answering machine; he <u>_might have left_</u> a message for you.
 
 ## 其他语气助动词
 
-除了上述那些，另外还有一些次要的语气助动词，逐一介绍如下。这些次要的语气助动词，大多仅限于一般用法，只有 ought to（类似should）和 have to（类似 must）可用于猜测用法。
+除了上述那些，另外还有一些次要的语气助动词，逐一介绍如下。这些次要的语气助动词，大多仅限于一般用法，只有 ought to（类似 should）和 have to（类似 must）可用于猜测用法。
 
 #### ought to
 

@@ -67,7 +67,7 @@ A: <u>_He did not like us_</u>, and <u>_everyone knew, but no one admitted it_</
 Everyone knew it.
 No one admitted it.
 
-这两个单句用对等连​​接词but来连接，可以制造出下面这个合句：
+这两个单句用对等连​​接词 but 来连接，可以制造出下面这个合句：
 
 Everyone knew <u>_it_</u>, but no one admitted <u>_it_</u>.
 
@@ -75,7 +75,7 @@ Everyone knew <u>_it_</u>, but no one admitted <u>_it_</u>.
 
 Everyone knew, but no one admitted <u>_it_</u>.
 
-所以，上面那个例句A，它右边的对等从句本身也是一个合句，里面又包含两个对等从句。
+所以，上面那个例句 A，它右边的对等从句本身也是一个合句，里面又包含两个对等从句。
 
 ## 对等从句与相关字组
 

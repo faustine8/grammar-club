@@ -34,7 +34,7 @@ Unit 3 is longer [<u>_than_</u> <u>_Unit 4_</u> <u>_is_</u>].
 
 从属连词 than 引导的从句（中括号内的部分）是个状语从句，修饰前面的形容词 longer ——也就是两个从句之间重复的那个比较点。请注意：状语从句中的补语 long 被省略掉了。这是比较句法的一个特色：从属从句当中，重复的比较点必须省略。
 
-对等从句的特色是可以省略掉两个从句间重复的部分。比较级的句子虽然是从属从句，但是它也具有同样的特色，可以省略掉重复的部分。例如前面那个句子，从属从句的动词是be动词，和主要从句的动词一样，所以可以省略，成为：
+对等从句的特色是可以省略掉两个从句间重复的部分。比较级的句子虽然是从属从句，但是它也具有同样的特色，可以省略掉重复的部分。例如前面那个句子，从属从句的动词是 be 动词，和主要从句的动词一样，所以可以省略，成为：
 
 Unit 3 is longer [<u>_than_</u> <u>_Unit 4_</u>].
 连词 S
@@ -161,7 +161,7 @@ Yellowstone is <u>_a crowded scenic spot_</u>.
 Yellowstone is <u>_the most crowded_</u> of the state's scenic spots.
 （ 黄石公园是这一州的风景区当中人潮最多的。）
 
-第 1 句中的补语是名词短语 a crowded scenic spot，形容词 crowded 位于名词短语中。第 2 句中 the most crowded之后虽没有名词，可是有介词短语 of the state's scenic spots（在该州各风景区之中）跟在后面，因而可以看出来它是 the most crowded one的省略，形容词 most crowded 出现于名词短语 the one 的中间，「在该州各风景区之中最拥挤的『那个』（风景区）」。在一个特定的范围中指出「最……」的一个，具有明确的指示功能，因而需要定冠词 the。这种「指示性」才是要加定冠词的真正原因。
+第 1 句中的补语是名词短语 a crowded scenic spot，形容词 crowded 位于名词短语中。第 2 句中 the most crowded 之后虽没有名词，可是有介词短语 of the state's scenic spots（在该州各风景区之中）跟在后面，因而可以看出来它是 the most crowded one 的省略，形容词 most crowded 出现于名词短语 the one 的中间，「在该州各风景区之中最拥挤的『那个』（风景区）」。在一个特定的范围中指出「最……」的一个，具有明确的指示功能，因而需要定冠词 the。这种「指示性」才是要加定冠词的真正原因。
 
 经过以上的分析，读者应该能够判断下面这句是个正确的句子：
 
@@ -178,14 +178,14 @@ Yellowstone is <u>_the most crowded_</u> in summer.
 John is <u>_the shorter of the twins_</u>.
 （约翰是双胞胎中比较矮的那个。）
 
-这个句子虽然用的是比较级，可是 shorter 在双胞胎之中已经充分指出是哪一个，所以仍然要用定冠词 the。 除了形容词以外，副词也有比较级和最高级。和形容词的情况相同，副词的最高级也可以选择加上the，虽然它并不在名词短语中。例如：
+这个句子虽然用的是比较级，可是 shorter 在双胞胎之中已经充分指出是哪一个，所以仍然要用定冠词 the。 除了形容词以外，副词也有比较级和最高级。和形容词的情况相同，副词的最高级也可以选择加上 the，虽然它并不在名词短语中。例如：
 
 Of all my students, John studies <u>_(the) hardest_</u>.
 （我所有的学生当中，约翰读书最用功。）
 
 副词的最高级 hardest 修饰动词 study。虽然它后面并没有名词，其实并不应该加什么冠词，但是因为大部分人都这样用，所以仍然可以选择加上定冠词成为 the fastest。当然，这种情况不加 the 也是对的。
 
-## That 和 those的使用
+## That 和 those 的使用
 
 比较级的句子要求对称工整，包括比较的对象在内也要对称。亦即，「谁和谁比」不能搞错。例如：
 
@@ -378,19 +378,19 @@ S V C
 
 <u>_Manual laborers are more strongly opposed to immigrants_</u> than <u>_white-collar workers_</u>, whose jobs are not seriously threatened by outsiders that swarm into this country, <u>_are_</u>.
 
-其实，从属从句中的动词are也和主要从句的动词重复，本来是可以省略的。但是，必须把动词are留下来，读者才知道white-collar workers是从属从句的主语、也才知道white-collar workers的比较对像是主要从句的主语manual laborers。如果把重复的动词are省掉，会变成这样：
+其实，从属从句中的动词 are 也和主要从句的动词重复，本来是可以省略的。但是，必须把动词 are 留下来，读者才知道 white-collar workers 是从属从句的主语、也才知道 white-collar workers 的比较对像是主要从句的主语 manual laborers。如果把重复的动词 are 省掉，会变成这样：
 
 <u>_Manual laborers_</u> are more strongly opposed to <u>_immigrants_</u> than <u>_white-collar workers_</u>, whose jobs are not seriously threatened by outsiders that swarm into this country. （不佳）
 
-这又回复到刚才那个句意不清的句子。读者无从判断 white-collar workers 是主语还是宾语、也就无从判断它的比较对像是主要从句的主语 manual laborers 还是宾语 immigrants。 为了排除这种模棱两可的情况，必须把are留下来才够清楚，如下：
+这又回复到刚才那个句意不清的句子。读者无从判断 white-collar workers 是主语还是宾语、也就无从判断它的比较对像是主要从句的主语 manual laborers 还是宾语 immigrants。 为了排除这种模棱两可的情况，必须把 are 留下来才够清楚，如下：
 
 <u>_Manual laborers are more strongly opposed to immigrants_</u> than <u>_white-collar workers_</u>, whose jobs are not seriously threatened by outsiders that swarm into this country, <u>_are_</u>.
 
-但是细看一下这个句子，会发现从属从句中主语 white-collar workers 和动词 are 之间隔了一个很长的关系从句。主语和动词的距离太远会造成意思不清楚。而且，动词 are 是个系动词，它后面的补语 opposed to immigrants 省略掉之后，等于是借用主要从句中同样的一个补语。把 are 一个字远远抛在后面，和主语与补语之间都有颇长的距离，这是很不清楚的讲法。可是我们前面分析过，这个are又不能省略，否则会出现模棱两可的结果。碰到这种棘手的情况，最好的解决办法就是倒装：
+但是细看一下这个句子，会发现从属从句中主语 white-collar workers 和动词 are 之间隔了一个很长的关系从句。主语和动词的距离太远会造成意思不清楚。而且，动词 are 是个系动词，它后面的补语 opposed to immigrants 省略掉之后，等于是借用主要从句中同样的一个补语。把 are 一个字远远抛在后面，和主语与补语之间都有颇长的距离，这是很不清楚的讲法。可是我们前面分析过，这个 are 又不能省略，否则会出现模棱两可的结果。碰到这种棘手的情况，最好的解决办法就是倒装：
 
 <u>_Manual laborers are more strongly opposed to immigrants_</u> than <u>_are white-collar workers_</u>, whose jobs are not seriously threatened by outsiders that swarm into this country.
 
-把动词倒装到主语前面，造成的结果是动词 are 与主语 white-collar workers 在一起、动词are仍然在主语 white-collar workers 与补语 opposed to immigrants 之间继续扮演系动词的角色。同时很明显看得出来 white-collar workers 是主语、比较的对像是 manual laborers。这才是最清楚的表达方式。
+把动词倒装到主语前面，造成的结果是动词 are 与主语 white-collar workers 在一起、动词 are 仍然在主语 white-collar workers 与补语 opposed to immigrants 之间继续扮演系动词的角色。同时很明显看得出来 white-collar workers 是主语、比较的对像是 manual laborers。这才是最清楚的表达方式。
 
 ## 比较点的观察
 
@@ -404,13 +404,13 @@ Your friend is <u>_more bold_</u> than wise.
 Your friend is bolder <u>_than you (are)_</u>.
 （你那位朋友比你大胆。）
 
-这时候，比较的对像是your friend和you，比较点在于重复的形容词bold，它的比较级当然就是bolder。可是，Your friend is more bold than wise这个句子的情况并非如此。这个句子可以拆开成下面这两句来观察：
+这时候，比较的对像是 your friend 和 you，比较点在于重复的形容词 bold，它的比较级当然就是 bolder。可是，Your friend is more bold than wise 这个句子的情况并非如此。这个句子可以拆开成下面这两句来观察：
 
 Your friend is very bold.
 
 Your friend is not very wise.
 
-这时候，两个句子之间的比较点并不是形容词bold，因为一边是bold、另一边却是wise，并没有交集。真正的比较点在于程度副词：bold的「程度」和wise的「程度」相比。这个程度副词可能是very much，比较级就是more。这两个句子因而还是可以用more … than来连接，如下：
+这时候，两个句子之间的比较点并不是形容词 bold，因为一边是 bold、另一边却是 wise，并没有交集。真正的比较点在于程度副词：bold 的「程度」和 wise 的「程度」相比。这个程度副词可能是 very much，比较级就是 more。这两个句子因而还是可以用 more … than 来连接，如下：
 
 Your friend is more bold <u>_than (he is) wise_</u>.
 下面这几个例子的情况都差不多：
@@ -419,4 +419,4 @@ This movie is more boring <u>_than (it is) educational_</u>.
 （这部电影与其说有教育性，不如说是无聊。）
 
 I regard John more as a brother <u>_than as a boyfriend_</u>.
-（在我眼中，John与其说是男朋友，不如说是兄弟。）
+（在我眼中，John 与其说是男朋友，不如说是兄弟。）

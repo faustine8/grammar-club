@@ -6,11 +6,11 @@
 
 不定式和语气助动词具有诸多共同点：后面都要接原形动词、都具有不确定语气，而且还可以互相改写──所有的主要语气助动词都可以改写成不定式，如下：
 
-must → have to  
-should → ought to  
-will/would → be going to/be willing to  
-can/could → be able to  
-may/might → be likely to/be allowed to  
+must → have to
+should → ought to
+will/would → be going to/be willing to
+can/could → be able to
+may/might → be likely to/be allowed to
 
 基于以上观察，笔者主张：不定式就是语气助动词减化的结果。亦即，将语气助动词改写为 to，就可以把限定动词短语（语气助动词 + 原形动词）改为非限定（to + V），也就是把动词短语转变为其他词类使用。
 
@@ -35,7 +35,7 @@ S V O C
 <u>_His girl friend_</u> <u>_asked_</u> <u>_that he should buy her a diamond ring as soon as possible_</u>.
 S V O
 
-从属连词 that 引导的是个名词从句，当作主要从句动词 asked 的宾语使用。将这个名词从句的主语he拿出来当宾语、限定动词 should buy 减化为不定式短语 to buy，后面整个部分一并转变为不定式短语当作主语补语，结果就是前面例 2 那个句子。
+从属连词 that 引导的是个名词从句，当作主要从句动词 asked 的宾语使用。将这个名词从句的主语 he 拿出来当宾语、限定动词 should buy 减化为不定式短语 to buy，后面整个部分一并转变为不定式短语当作主语补语，结果就是前面例 2 那个句子。
 
 减化从句的变化比较复杂，本书留待后面的章节处理。目前先将不定式短语视为短语看待，也就是把动词短语中的语气助动词变成表示不定式的 to，产生出来的不定式短语就可以当作名词短语、形容词短语、副词短语使用。
 
@@ -81,7 +81,7 @@ S V C
 
 <u>_Jane_</u> <u>_wanted_</u> <u>_her boyfriend_</u> <u>_to leave her alone_</u>.
 S V O C
-(Jane叫她男朋友不要来烦她。)
+(Jane 叫她男朋友不要来烦她。)
 
 不定式短语 to leave her alone 视为 should leave her alone 的减化：把语气助动词 should 改写为 to，整个短语转变为不定式短语、当形容词使用，放在宾语 her boyfriend 后面当宾语补语。
 
@@ -221,7 +221,7 @@ S V O
 Sorry, <u>_I_</u> <u>_forgot_</u> <u>_that I should call in advance_</u>.
 S V O
 
-在及物动词forgot后面用that引导的名词从句当宾语。忘了「应该」先打电话，也就是没有打。因为有语气助动词should，减化之下就会变成不定式短语to call。请比较下面的句子：
+在及物动词 forgot 后面用 that 引导的名词从句当宾语。忘了「应该」先打电话，也就是没有打。因为有语气助动词 should，减化之下就会变成不定式短语 to call。请比较下面的句子：
 
 <u>_I_</u> <u>_forgot_</u> <u>_having called the pizza shop_</u>, and called again.
 S V O
@@ -232,11 +232,11 @@ S V O
 <u>_I_</u> <u>_forgot_</u> <u>_that I had called the pizza shop_</u>….
 S V O
 
-在及物动词后面用 that 引导的名词从句当宾语。这时的情况是「确实已经打过电话」但是事后忘记，应该采用叙述事实的直说语气来表达。发生在过去时间（forgot 是过去式）以前的事实，正确时态是过去完成时 had called。这里的had是语法助动词、并非语气助动词，所以并不具有「不确定」语气。这个动词短语的减化就会变成动名词 having called。
+在及物动词后面用 that 引导的名词从句当宾语。这时的情况是「确实已经打过电话」但是事后忘记，应该采用叙述事实的直说语气来表达。发生在过去时间（forgot 是过去式）以前的事实，正确时态是过去完成时 had called。这里的 had 是语法助动词、并非语气助动词，所以并不具有「不确定」语气。这个动词短语的减化就会变成动名词 having called。
 
 ## 表示不定式的 to 与介词 to 的区别
 
-不定式拼成 to，介词也拼成 to，有时会造成混淆。要区分的话还是得回到原点：表示不定式的to来自某一个语气助动词、带有不确定语气，后面要接原形动词；介词 to 类似 toward，表示「对、向」，后面要接名词（包括动名词）。试比较：
+不定式拼成 to，介词也拼成 to，有时会造成混淆。要区分的话还是得回到原点：表示不定式的 to 来自某一个语气助动词、带有不确定语气，后面要接原形动词；介词 to 类似 toward，表示「对、向」，后面要接名词（包括动名词）。试比较：
 
 I <u>_used to walk_</u> 3 km to school when I was a kid.
 （我小时候经常走三公里上学。）
@@ -324,7 +324,7 @@ S V O C
 
 这个句子还是用使役动词 had 当动词，宾语是 the maid（女仆），后面的宾语补语没有被动语态、也没有进行状态，但是不能使用不定式，所以就采用原形动词 clean up the mess 当宾语补语。
 
-请注意：如果使役动词的句子改写为被动态，动词转变为be动词、使役动词转变为过去分词的形容词，那么被删掉的 to 就得放回去。拿上面看过的那个例子来说：I’ll make him pay for this，动词是使役动词 make，后面用原形动词 pay 当宾语补语。但是如果改写成被动态，表示不定式的 to 就必须还原，如下：
+请注意：如果使役动词的句子改写为被动态，动词转变为 be 动词、使役动词转变为过去分词的形容词，那么被删掉的 to 就得放回去。拿上面看过的那个例子来说：I’ll make him pay for this，动词是使役动词 make，后面用原形动词 pay 当宾语补语。但是如果改写成被动态，表示不定式的 to 就必须还原，如下：
 
 <u>_He_</u> <u>_will be_</u> <u>_made to pay for this_</u>.
 S V C
@@ -353,7 +353,7 @@ S V O C
 S V O C
 (我感觉到我的皮夹被人碰了一下。)
 
-动词 feel 是感官动词，后面不能用不定式。但是就宾语皮夹而言，它是「被碰到」，带有被动语态，这时候就该采用过去分词 touched当宾语补语才能表达​​被动，而不是用原形动词。
+动词 feel 是感官动词，后面不能用不定式。但是就宾语皮夹而言，它是「被碰到」，带有被动语态，这时候就该采用过去分词 touched 当宾语补语才能表达​​被动，而不是用原形动词。
 
 <u>_I_</u> <u>_felt_</u> <u>_my heart_</u> <u>_stop_</u>; I was so scared.
 S V O C

@@ -22,7 +22,7 @@ The dog <u>_was_</u> <u>_swimming_</u> toward the shore then.
 
 简单化的看法是：第 1 句的动词是 is、一般现在时，后面的 eating breakfast 是现在分词短语，当形容词补语使用，表达出进行状态、解释为「正在吃早饭」，修饰主语 he。第 2 句的动词是 was、一般过去时，它后面 swimming toward the shore 这个现在分词短语当形容词补语看待，表达出进行状态，意思是「正在朝岸边游」，修饰主语 the dog。关鉴在于：表示「动作」的动态动词如 eat 与 swim 等等才可以有现在分词的形容词 eating 与 swimming、表示这个动作「正在进行中」。
 
-反之，如果动词是「静态动词」、并不代表「动作」，自然也就没有所谓的「正在做」或「一直做」的进行状态可言。因此，以传统语法的角度来说：静态动词不能用于进行时。换言之，静态动词不适合加上-ing字尾成为现在分词的形容词。
+反之，如果动词是「静态动词」、并不代表「动作」，自然也就没有所谓的「正在做」或「一直做」的进行状态可言。因此，以传统语法的角度来说：静态动词不能用于进行时。换言之，静态动词不适合加上 -ing 字尾成为现在分词的形容词。
 
 ## 几个常见的静态动词
 
@@ -95,7 +95,7 @@ I <u>_was_</u> playing a video game when the power suddenly <u>_went out_</u>.
 
 ![images chapter_9 2_3](../images/chapter_9/2_3.jpg)
 
-这个句子的时间副词是 when 引导的那个状语从句。从状语从句里面的一般过去时动词 went out 来看，它的时间是一个过去的括弧——而且是个极小的括弧：从「有电」变成「没电」的那一刹那。以这个时间状语从句修饰主要从句的动词（我们一律认定 be 为动词），那么主要从句也应该是一般过去时，所以动词是 was。后面的现在分词短语 playing a video game 是动词play加宾语 a video game 的构造，加上 -ing 字尾变成现在分词短语之后就是一个形容词短语，当作主语补语使用、修饰主语 I 。现在分词的 -ing 字尾表达进行状态，相当于中文的「正在」（短时间）或「一直」（长时间）。就上面这个例子而言，playing a video game 应解释为「正在打电动」。这就是一般语法书所谓的过去进行时。
+这个句子的时间副词是 when 引导的那个状语从句。从状语从句里面的一般过去时动词 went out 来看，它的时间是一个过去的括弧——而且是个极小的括弧：从「有电」变成「没电」的那一刹那。以这个时间状语从句修饰主要从句的动词（我们一律认定 be 为动词），那么主要从句也应该是一般过去时，所以动词是 was。后面的现在分词短语 playing a video game 是动词 play 加宾语 a video game 的构造，加上 -ing 字尾变成现在分词短语之后就是一个形容词短语，当作主语补语使用、修饰主语 I 。现在分词的 -ing 字尾表达进行状态，相当于中文的「正在」（短时间）或「一直」（长时间）。就上面这个例子而言，playing a video game 应解释为「正在打电动」。这就是一般语法书所谓的过去进行时。
 
 I <u>_was_</u> working on my paper <u>_throughout last week_</u>
 . （上周一整个礼拜我都在写论文。）
@@ -113,7 +113,7 @@ The house <u>_was_</u> being renovated when it <u>_collapsed_</u> on the workers
 
 ![images chapter_9 2_5](../images/chapter_9/2_5.jpg)
 
-这个句子的时间副词是 when 引导的那个状语从句，从句中一般过去时的动词 collapsed 显示它的时间是个过去的括弧。所以，主要从句的动词也应该是一般过去时，因此就是was。后面的分词短语 being renovated 含有现在分词 being 与过去分词 renovated，整个分词短语当形容词补语使用、修饰主语the house。现在分词 being 里面的 be 无意义、不须解释，字尾的 -ing 表达进行状态，因为是短时间所以解释为「正在」。过去分词 renovated 表达被动语态、解释为「被翻修」。整个短语 being renovated 仍视为现在分词短语，意思是「正在被翻修」。这就是一般语法书所谓的过去进行被动态。
+这个句子的时间副词是 when 引导的那个状语从句，从句中一般过去时的动词 collapsed 显示它的时间是个过去的括弧。所以，主要从句的动词也应该是一般过去时，因此就是 was。后面的分词短语 being renovated 含有现在分词 being 与过去分词 renovated，整个分词短语当形容词补语使用、修饰主语 the house。现在分词 being 里面的 be 无意义、不须解释，字尾的 -ing 表达进行状态，因为是短时间所以解释为「正在」。过去分词 renovated 表达被动语态、解释为「被翻修」。整个短语 being renovated 仍视为现在分词短语，意思是「正在被翻修」。这就是一般语法书所谓的过去进行被动态。
 
 ### 二．现在时间
 
@@ -231,7 +231,7 @@ The train <u>_leaves at 2:30_</u>.
 World Cup finals <u>_begin tomorrow night_</u>.
 (世界杯决赛明晚开打。)
 
-这些句子讲的都是「早已排定」的事情。虽然尚未发生，但是已经非常确定，可以排除掉带有不确定意味的助动词will、直接用一般现在时把它当做事实来叙述。
+这些句子讲的都是「早已排定」的事情。虽然尚未发生，但是已经非常确定，可以排除掉带有不确定意味的助动词 will、直接用一般现在时把它当做事实来叙述。
 
 再看一个未来式的例子：
 
@@ -272,7 +272,7 @@ The weatherman <u>_said_</u> it <u>_would rain_</u>, but it didn’t.
 
 ##### 状语从句与名词从句
 
-规则中所谓「表示时间或条件的状语从句」，我们先把范围缩小到两个连词：when和if。请比较下面这两句：
+规则中所谓「表示时间或条件的状语从句」，我们先把范围缩小到两个连词：when 和 if。请比较下面这两句：
 
 <u>_I_</u> <u>_know_</u> <u>_when he left the room_</u>.
 S V O(名词从句)
@@ -311,9 +311,9 @@ When he <u>_gets_</u> here, the police <u>_will be_</u> waiting.
 
 ![images chapter_9 2_15](../images/chapter_9/2_15.jpg)
 
-主要从句 the police will be waiting 中的动词 will be 采用的是未来式，表示这是将来的事情。至于 when he gets here 这个从句，外加的连词 when 解释为「当……时候」，所以它引导的是个时间状语从句。为什么这种从句要用现在式动词gets代替未来式 will get？这是因为：「当……时候」这种从句，语气就是「当做」已经到了「那个时候」。换句话说：这种从句里面要把未来「当做」已经到了、就是「现在」，所以动词要采用现在式。
+主要从句 the police will be waiting 中的动词 will be 采用的是未来式，表示这是将来的事情。至于 when he gets here 这个从句，外加的连词 when 解释为「当……时候」，所以它引导的是个时间状语从句。为什么这种从句要用现在式动词 gets 代替未来式 will get？这是因为：「当……时候」这种从句，语气就是「当做」已经到了「那个时候」。换句话说：这种从句里面要把未来「当做」已经到了、就是「现在」，所以动词要采用现在式。
 
-接下来再看看if这个连词：
+接下来再看看 if 这个连词：
 
 If he <u>_gets to_</u> the hospital in time, he’<u>_ll be able to see_</u> his father for the last time.
 （如果他及时赶到医院，就能见到他父亲最后一面。）
@@ -322,7 +322,7 @@ If he <u>_gets to_</u> the hospital in time, he’<u>_ll be able to see_</u> his
 
 ![images chapter_9 2_16](../images/chapter_9/2_16.jpg)
 
-主要从句的动词 will be able to see 可以看出来是未来式，表示是未来时间。从属从句 if he gets to the hospital in time，它外加的连词if解释为「如果」，所以这是一个条件状语从句，里面的动词要用现在式 gets 而不用未来式 will get。为什么？
+主要从句的动词 will be able to see 可以看出来是未来式，表示是未来时间。从属从句 if he gets to the hospital in time，它外加的连词 if 解释为「如果」，所以这是一个条件状语从句，里面的动词要用现在式 gets 而不用未来式 will get。为什么？
 
 因为，所谓的「如果」，语气是把原本还不确定的假设情况当做是事实来叙述，也就是「假如果真」，所以应该采用表达「事实」的一般现在时。我们不知道例句中的「他」到时候能不能够赶得及。但是，所谓「『如果』赶到」，意思就是「当做是『真的』赶到」，里面就该采用事实语气来叙述，把这件事情当做是真的，所以要用现在式而不是未来式。
 
@@ -341,7 +341,7 @@ Everybody <u>_had left_</u> <u>_before she got to the station_</u>.
 
 ![images chapter_9 2_17](../images/chapter_9/2_17.jpg)
 
-这个句子的时间由 before 引导的时间状语从句来表示。从状语从句的过去式动词 got to 可以看出时间是在过去，再从连词 before 可以看出，这个时间状语从句表达的时间可以画成一个以过去动作 got to 为截止点的箭头。换句话说，这个时间状语从句并没有清楚交代 leave 这个动作发生在什么时候（没有一个明确的括弧如last week之类来表示），只知道这个动作在 got to 这个过去动作之前已经完成。因此主要从句的动词应该采用过去完成时 had left。再看一个例子：
+这个句子的时间由 before 引导的时间状语从句来表示。从状语从句的过去式动词 got to 可以看出时间是在过去，再从连词 before 可以看出，这个时间状语从句表达的时间可以画成一个以过去动作 got to 为截止点的箭头。换句话说，这个时间状语从句并没有清楚交代 leave 这个动作发生在什么时候（没有一个明确的括弧如 last week 之类来表示），只知道这个动作在 got to 这个过去动作之前已经完成。因此主要从句的动词应该采用过去完成时 had left。再看一个例子：
 
 More than 60,000 soldiers <u>_had been_</u> killed <u>_when the President finally decided to pull out of the war_</u>.
 (当总统终于决定撤出战争时，已经有六万多名士兵阵亡。)
@@ -389,7 +389,7 @@ Everything that can be done <u>_has been_</u> done; <u>_now_</u> we can only wai
 
 ![images chapter_9 2_19](../images/chapter_9/2_21.jpg)
 
-主要从句的动词采用的是be动词的现在完成时 has been，表示「到现在为止已经」（be 动词本身无意义、不须翻译），后面的过去分词 done 当形容词补语看待、表示「被做完」，形容主语 everything。这就是一般语法书所谓的现在完成被动态。
+主要从句的动词采用的是 be 动词的现在完成时 has been，表示「到现在为止已经」（be 动词本身无意义、不须翻译），后面的过去分词 done 当形容词补语看待、表示「被做完」，形容主语 everything。这就是一般语法书所谓的现在完成被动态。
 
 Those marathon runners <u>_have been_</u> running <u>_for two whole hours_</u> without stop <u>_now_</u>.
 (那些马拉松选手目前为止已经整整跑了两个小时没有休息。)
@@ -500,7 +500,7 @@ Some buildings that <u>_were_</u> destroyed <u>_in the 921 earthquake_</u> <u>_h
 
 ![images chapter_9 2_19](../images/chapter_9/3_2.jpg)
 
-这是一个比较级的句子。从属连词 as 引导的状语从句 as they did in the aftermath of 921，里面的时间副词是 in the aftermath of 921 这个介词短语，它括出一个过去时间的括弧，所以动词 did（代表handled ）采用的是一般过去时。但是主要从句的时间副词 never before 则是画出一个箭头形状、截止时间是过去时间的 in the aftermath of 921，因此它的动词应该采用过去完成时 had handled。
+这是一个比较级的句子。从属连词 as 引导的状语从句 as they did in the aftermath of 921，里面的时间副词是 in the aftermath of 921 这个介词短语，它括出一个过去时间的括弧，所以动词 did（代表 handled ）采用的是一般过去时。但是主要从句的时间副词 never before 则是画出一个箭头形状、截止时间是过去时间的 in the aftermath of 921，因此它的动词应该采用过去完成时 had handled。
 
 Under a provision of the law that <u>_has never been_</u> applied, the President <u>_is_</u> required to seek the approval of Congress before leading the country into war.
 (依照该法律一项条文的规定（这项条文迄今从未被引用过），总统必须先取得国会的同意才能带领国家参战。)

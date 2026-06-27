@@ -20,7 +20,7 @@ S V O 状语从句
 
 如果把第 1 句中的名词从句删掉，剩下 I believe，这个主要从句少了宾语，就不再是个完整的句子。反之，如果把第 2 句中的状语从句删掉，剩下 I believe that，这个句子仍然完整正确。
 
-直述句改造为状语从句，也可以外加 so … that, such … that, in that, in order that 之类含有 that 在内的连词。与名词从句不同之处在于：名词从句只能外加一个单独的、没有意义的that，表示「那句话、那件事」。如果加的是 so … that, such … that, in that, in order that 之类，这些连词都有意义，表示「目的、结果、限制」等等，那么就会变成状语从句而非名词从句。请比较：
+直述句改造为状语从句，也可以外加 so … that, such … that, in that, in order that 之类含有 that 在内的连词。与名词从句不同之处在于：名词从句只能外加一个单独的、没有意义的 that，表示「那句话、那件事」。如果加的是 so … that, such … that, in that, in order that 之类，这些连词都有意义，表示「目的、结果、限制」等等，那么就会变成状语从句而非名词从句。请比较：
 
 <u>_He_</u> <u>_said_</u> sincerely <u>_that he was sorry_</u>.
 S V O
@@ -430,7 +430,7 @@ S V 条件状语从句
 
 第 1 句中，主要从句的动词 can’t remember 是及物动词，后面应该有宾语。所以，if I turned off the gas or not 应该是名词从句，这样才可以当 can’t remember 的宾语。作名词从句解释时，连词 if 相当于 whether，解释为「是否」。 Yes/No Question 改写为名词从句时要加的连词就是 whether 或 if。所以，这个名词从句如果还原成为一个独立的疑问句，就是这一句：Did I turn off the gas?
 
-第 2 句中，主要从句的动词 have to go 是个不及物动词，后面并没有可以放名词从句的位置，所以 if I didn’t turn off the gas 不是名词从句而是状语从句。当状语从句使用时，外加的连词if解释为「如果」。这个状语从句是个表示条件的状语从句，修饰主要从句动词 have to go back 的条件。接下来我们再把未来时间放进来看看：
+第 2 句中，主要从句的动词 have to go 是个不及物动词，后面并没有可以放名词从句的位置，所以 if I didn’t turn off the gas 不是名词从句而是状语从句。当状语从句使用时，外加的连词 if 解释为「如果」。这个状语从句是个表示条件的状语从句，修饰主要从句动词 have to go back 的条件。接下来我们再把未来时间放进来看看：
 
 <u>_I_</u> <u>_have_</u> <u>_no idea_</u> <u>_if this plan will work or not_</u>.
 S V O 名词从句

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grammar Club
-description: 从单句到减化子句，建立可用于阅读与写作的英文句型地图。
+description: 从简单句到简化从句，建立可用于阅读与写作的英文句型地图。
 editLink: false
 lastUpdated: false
 ---
@@ -10,10 +10,10 @@ lastUpdated: false
   <section class="gc-hero" aria-labelledby="home-title" style="grid-template-columns: minmax(0, 1fr) minmax(320px, 370px); gap: 64px; min-height: auto; padding: 32px 0 34px;">
     <div class="gc-hero__copy">
       <h1 id="home-title">Grammar Club</h1>
-      <p class="gc-hero__lead">从单句到减化子句，建立可用于阅读与写作的英文句型地图。</p>
-      <p class="gc-hero__body">这份站点整理《旋元佑进阶文法》的学习顺序，把句子元素、复合句结构、减化子句和常见写作错误放在同一条路径上，适合系统复习，也适合查阅。</p>
+      <p class="gc-hero__lead">从简单句到简化从句，建立可用于阅读与写作的英文句型地图。</p>
+      <p class="gc-hero__body">这份站点整理《旋元佑进阶文法》的学习顺序，把句子元素、复合句结构、简化从句和常见写作错误放在同一条路径上，适合系统复习，也适合查阅。</p>
       <div class="gc-actions" aria-label="Primary">
-        <a class="gc-button gc-button--primary" href="./grammar-notes/01-SimpleSentences.html">开始：单句</a>
+        <a class="gc-button gc-button--primary" href="./grammar-notes/01-SimpleSentences.html">开始：简单句</a>
         <a class="gc-button gc-button--secondary" href="./guide.html">阅读导览</a>
       </div>
     </div>
@@ -54,7 +54,7 @@ lastUpdated: false
         </ol>
       </div>
       <div>
-        <h3 style="margin: 0; border-bottom: 2px solid var(--gc-indigo); padding-bottom: 8px; color: var(--gc-ink); font-size: 15px; font-weight: 820; line-height: 1.3;">II. 复合句架构</h3>
+        <h3 style="margin: 0; border-bottom: 2px solid var(--gc-indigo); padding-bottom: 8px; color: var(--gc-ink); font-size: 15px; font-weight: 820; line-height: 1.3;">II. 复合句</h3>
         <ol style="display: grid; gap: 0; margin: 0; padding: 0; list-style: none;">
           <li><a href="./grammar-notes/15-Conjunction.html">15. Conjunction</a></li>
           <li><a href="./grammar-notes/16-CompoundSentences.html">16. Compound Sentences</a></li>
@@ -66,7 +66,7 @@ lastUpdated: false
         </ol>
       </div>
       <div>
-        <h3 style="margin: 0; border-bottom: 2px solid var(--gc-indigo); padding-bottom: 8px; color: var(--gc-ink); font-size: 15px; font-weight: 820; line-height: 1.3;">III. 减化子句</h3>
+        <h3 style="margin: 0; border-bottom: 2px solid var(--gc-indigo); padding-bottom: 8px; color: var(--gc-ink); font-size: 15px; font-weight: 820; line-height: 1.3;">III. 简化从句</h3>
         <ol style="display: grid; gap: 0; margin: 0; padding: 0; list-style: none;">
           <li><a href="./grammar-notes/22-ReducedClauses.html">22. Reduced Clauses</a></li>
           <li><a href="./grammar-notes/23-RelativeClausesReduced.html">23. Relative Clauses Reduced</a></li>

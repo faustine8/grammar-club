@@ -53,9 +53,9 @@ S V O
 
 由疑问句改造出来的名词从句，又可分成两种：来自 Information Question、以及来自 Yes/No Question。
 
-### 来自Information Question
+### 来自 Information Question
 
-有疑问词（如who, which, what, when, why, how, where等）引导的疑问句，称为 Information Question。这种疑问句，里头的疑问词可以充当现成的从属连词，所以只要把问号拿掉，不必加任何东西就可以直接成为名词从句。例如：
+有疑问词（如 who, which, what, when, why, how, where 等）引导的疑问句，称为 Information Question。这种疑问句，里头的疑问词可以充当现成的从属连词，所以只要把问号拿掉，不必加任何东西就可以直接成为名词从句。例如：
 
 <u>_What_</u> <u>_happened_</u> at his party?
 S V
@@ -108,9 +108,9 @@ S V O 名词从句
 
 这个从属连词除了 whether 之外还可以用 if（解释为「是否」），所以上面这个复句也可以写成 I can tell if it is going to rain。不过，在写作时最好尽量使用 whether 来表示「是否」、避免使用 if。有几个原因：
 
-一． Whether解释为「是否」，if则有「是否」和「如果」两种解释。所以，用whether来表达通常会比用if更清楚。
+一． Whether 解释为「是否」，if 则有「是否」和「如果」两种解释。所以，用 whether 来表达通常会比用 if 更清楚。
 
-二．句首位置只能用whether、不能用if来表示「是否」。
+二．句首位置只能用 whether、不能用 if 来表示「是否」。
 
 例如：
 
@@ -118,15 +118,15 @@ S V O 名词从句
 S 名词从句 V C
 （我们是否能够赢得大奖，不久便见分晓。）
 
-这个复句，主要从句的主语就是开头那个名词从句。因为从属连词位于句首位置，假如用的连词是if，读者看到 If we can win the big prize 获得的印象是「『如果』我们能够赢得大奖」，这样就会错意了。所以，在句首位置要表示「是否」，只能用 whether 这个连词而不能用 if。
+这个复句，主要从句的主语就是开头那个名词从句。因为从属连词位于句首位置，假如用的连词是 if，读者看到 If we can win the big prize 获得的印象是「『如果』我们能够赢得大奖」，这样就会错意了。所以，在句首位置要表示「是否」，只能用 whether 这个连词而不能用 if。
 
-三．介词后面可以用whether不能用if。
+三．介词后面可以用 whether 不能用 if。
 
 例如：
 
 The manager hinted <u>_at_</u> <u>_whether he would sign the contract_</u>. 介词 名词从句 （经理暗示了一下他是否要签署合约。）
 
-这个复句中有个介词at，它后面的宾语位置可以放由 whether 引导的名词从句，但是这个位置不能用 if，否则就是语法错误。
+这个复句中有个介词 at，它后面的宾语位置可以放由 whether 引导的名词从句，但是这个位置不能用 if，否则就是语法错误。
 
 基于上述三种原因，写作时最好养成习惯：要表示「是否」时，最好选择用 whether 来表示比较不会出错。
 
@@ -180,7 +180,7 @@ S V C
 <u>_Where he is hiding now_</u> <u>_is_</u> <u>_a big mystery_</u>.
 S 名词从句 V C
 
-另外，为了避免头重脚轻，也可以选择用虚字it暂代主语位置，而把真正的主语（名词从句）往后移，成为这样的复句：
+另外，为了避免头重脚轻，也可以选择用虚字 it 暂代主语位置，而把真正的主语（名词从句）往后移，成为这样的复句：
 
 <u>_It_</u> <u>_is_</u> <u>_a big mystery_</u> <u>_where he is hiding now_</u>.
 S V C 名词从句
@@ -205,7 +205,7 @@ S V O 名词从句
 
 这个复句中，名词从句当作及物动词的宾语使用。一般语法书中都会列出规则：名词从句当宾语使用时，连词 that 可以省略。拿上面这个例子来说，读者看到 many people believe 就会作出正确的假设：这是主要从句的主语和动词。而因为 believe 是及物动词、后面需要一个宾语，因此读者会自动把后面的名词从句 one’s zodiac sign determines one’s character 当宾语看待。这种情况，没有意义的连词 that 自然可以省略。
 
-如果在 S + V + O + C 的句型中，宾语位置是个名词从句，这时候因为在宾语后面还有宾语补语存在，可能会造成句子不清楚，所以应该先用虚字it暂代宾语位置、把名词从句移到句尾，例如：
+如果在 S + V + O + C 的句型中，宾语位置是个名词从句，这时候因为在宾语后面还有宾语补语存在，可能会造成句子不清楚，所以应该先用虚字 it 暂代宾语位置、把名词从句移到句尾，例如：
 
 <u>_I_</u> <u>_find_</u> <u>_something_</u> <u>_amazing_</u>.
 S V O C
@@ -214,12 +214,12 @@ S V O C
 You still look so young.
 （你看起来仍然这么年轻。）
 
-句1中因为有宾语补语amazing，如果直接把句2改造成名词从句放进句1的宾语位置，句型会不够清楚。所以必须先用虚字it暂代宾语位置，然后在句2这个直述句前面加上从属连词that制造出名词从句，但是移到句1的句尾位置，成为：
+句1中因为有宾语补语 amazing，如果直接把句2改造成名词从句放进句1的宾语位置，句型会不够清楚。所以必须先用虚字 it 暂代宾语位置，然后在句2这个直述句前面加上从属连词 that 制造出名词从句，但是移到句1的句尾位置，成为：
 
 <u>_I_</u> <u>_find_</u> <u>_it_</u> <u>_amazing_</u> <u>_(that) you still look so young_</u>.
 S V O C 名词从句
 
-这种情况，前面 I find it amazing 这个主要从句很清楚，而后面 you still look so young 这个名词从句自然就是虚字it的真正内容，所以连词 that 也可以省略掉。
+这种情况，前面 I find it amazing 这个主要从句很清楚，而后面 you still look so young 这个名词从句自然就是虚字 it 的真正内容，所以连词 that 也可以省略掉。
 
 #### Wh- 从句
 

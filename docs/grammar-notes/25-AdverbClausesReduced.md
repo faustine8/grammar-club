@@ -1,6 +1,6 @@
 # 第二十五章 状语从句简化
 
-所有从属从句的减化，共通原则都是省略主语与 be 动词、留下补语部分，状语从句的减化也不例外。比较特别的地方是连词的处理：名词从句外加无意义的连词that在减化时会删除掉、关系从句重复的关系词也会在减化时一并省掉，只有状语从句的连词词既不空洞、又不重复，所以在减化时往往需要把连词保留下来，句子的意思才不会有损失。至于状语从句有哪些连词要保留、哪些应该省略，​​必须从句意去斟酌：省略掉连词之后句意仍然够清楚，才可以省略。
+所有从属从句的减化，共通原则都是省略主语与 be 动词、留下补语部分，状语从句的减化也不例外。比较特别的地方是连词的处理：名词从句外加无意义的连词 that 在减化时会删除掉、关系从句重复的关系词也会在减化时一并省掉，只有状语从句的连词词既不空洞、又不重复，所以在减化时往往需要把连词保留下来，句子的意思才不会有损失。至于状语从句有哪些连词要保留、哪些应该省略，​​必须从句意去斟酌：省略掉连词之后句意仍然够清楚，才可以省略。
 
 状语从句减化，动词部分的处理原则仍然和其他的从属从句相同：若有 be 动词则省略 be 动词、若有语气助动词则减化为表示不定式的 to，若只有普通动词则一律加 -ing。如此减化的结果，剩下的补语部分（减化从句）有可能是现在分词与过去分词这两种分词短语、不定式短语，以及其他（包括名词、形容词、介词短语等等）。以下依补语的词类分别说明状语从句的减化。
 
@@ -12,7 +12,7 @@
 状语从句 S V
 (住在我叔叔家的时候，我每天晚上都出去吃饭。)
 
-中括弧内的部分是个状语从句，修饰主要从句动词 dined out 的时间。状语从句要减化为分词构句，有一点要特别注意：状语从句的主语必须和主要从句的主语相同才可以省略，否则就是错误。就上面这个例子而言，状语从句的主语I和主要从句的主语相同、可以省略。动词是普通动词 stayed，没有 be 动词也没有助动词。这种动词的减化方式是加上 -ing 成为 staying。主语、动词这两个部分减化之后，剩下来的已经不再是个限定从句，原来的连词 while 也已经不再需要。但是，while 除了连词的语法功能之外还有字义：「当…时」。如果要把话讲得清楚一点，可以选择把 while 留下来。如果要更简洁，也可以选择把 while 省掉，如下：
+中括弧内的部分是个状语从句，修饰主要从句动词 dined out 的时间。状语从句要减化为分词构句，有一点要特别注意：状语从句的主语必须和主要从句的主语相同才可以省略，否则就是错误。就上面这个例子而言，状语从句的主语 I 和主要从句的主语相同、可以省略。动词是普通动词 stayed，没有 be 动词也没有助动词。这种动词的减化方式是加上 -ing 成为 staying。主语、动词这两个部分减化之后，剩下来的已经不再是个限定从句，原来的连词 while 也已经不再需要。但是，while 除了连词的语法功能之外还有字义：「当…时」。如果要把话讲得清楚一点，可以选择把 while 留下来。如果要更简洁，也可以选择把 while 省掉，如下：
 
 [(While) staying at my uncle’s], <u>_I_</u> <u>_dined out_</u> every night.
 减化状语从句 S V
@@ -86,7 +86,7 @@ This caused widespread panic in Southeast Asia.
 Two Vietnamese patients <u>_died_</u> from avian flu, [so this caused widespread panic in Southease Asia].
 状语从句
 
-状语从句（中括弧内部分）修饰主要从句动词 died 的结果。这个状语从句的主语 this 和主要从句的主语 two Vietnamese patients 并不相同，通常是不能减化的。不过，状语从句主语 this 代表的内容就是整个主要从句那件事情，这种情况仍可视为主语有重复，可以进行减化。做法是把重复的主语this省掉、普通动词 caused 加上 -ing 成为现在分词 causing。连词 so 表达的是因果关系，而分词构句本身就具有因果关系的表达功能（表示原因的分词构句常放在句首、表示结果的常放在句尾），所以这些表达因果关系的连词不会保留下来。结果就是：
+状语从句（中括弧内部分）修饰主要从句动词 died 的结果。这个状语从句的主语 this 和主要从句的主语 two Vietnamese patients 并不相同，通常是不能减化的。不过，状语从句主语 this 代表的内容就是整个主要从句那件事情，这种情况仍可视为主语有重复，可以进行减化。做法是把重复的主语 this 省掉、普通动词 caused 加上 -ing 成为现在分词 causing。连词 so 表达的是因果关系，而分词构句本身就具有因果关系的表达功能（表示原因的分词构句常放在句首、表示结果的常放在句尾），所以这些表达因果关系的连词不会保留下来。结果就是：
 
 Two Vietnamese patients <u>_died_</u> from avian flu, [causing widespread panic in Southease Asia].
 减化状语从句
@@ -97,7 +97,7 @@ Two Vietnamese patients <u>_died_</u> from avian flu, [causing widespread panic 
 状语从句 V
 (因为时候不早了，这些救难人员决定要停手。)
 
-状语从句（中括弧内的部分）修饰主要从句动词 decided 的原因。请注意：状语从句的主语是个虚字 it，和主要从句的主语 the rescue workers 并不相同。这种情况并不适合进行减化，因为两个从句并没有什么重叠的部分。如果还是要进行减化，要注意几个地方。第一，状语从句不同的主语it必须保留下来。第二，动词 was 要加上 -ing 改为现在分词 being，因为这种句型是分词构句的一种变形，必须有个分词才会清楚。第三，减化为 it being rather late 之后，原来的连词（as）一定要省掉。这是因为：状语从句的主语既然和主要从句并无重复，减化时无法省略，那么减化从句并不会变得比较简洁。不过，减化之后可以省略的是原来那个连词，所以要从连词的省略来获得简洁的效果。因此，状语从句减化为分词构句时，如果主语不同而保留下来，连词就一定要省略。
+状语从句（中括弧内的部分）修饰主要从句动词 decided 的原因。请注意：状语从句的主语是个虚字 it，和主要从句的主语 the rescue workers 并不相同。这种情况并不适合进行减化，因为两个从句并没有什么重叠的部分。如果还是要进行减化，要注意几个地方。第一，状语从句不同的主语 it 必须保留下来。第二，动词 was 要加上 -ing 改为现在分词 being，因为这种句型是分词构句的一种变形，必须有个分词才会清楚。第三，减化为 it being rather late 之后，原来的连词（as）一定要省掉。这是因为：状语从句的主语既然和主要从句并无重复，减化时无法省略，那么减化从句并不会变得比较简洁。不过，减化之后可以省略的是原来那个连词，所以要从连词的省略来获得简洁的效果。因此，状语从句减化为分词构句时，如果主语不同而保留下来，连词就一定要省略。
 
 像上例那种情况，在分词构句中保留住不同的主语，这种构造在传统语法中称为「独立短语」。因为传统语法视 being rather late 这种分词短语为形容词、修饰前面的代词 it，共同构成 it being rather late 这个名词短语。但是传统语法没有进一步去观察省略的情形，因而无法解释 it being rather late 这个名词短语扮演什么角色。在无法解释的时候，传统语法的做法就是取个名称来交代过去：「独立短语」表示 it being rather late 独立、与主要从句无关。其实，it being rather late 只不过是 because it was rather late 这个状语从句减化的结果。
 
@@ -141,7 +141,7 @@ The house, [whether it is insured or not], <u>_needs_</u> a fire alarm.
 状语从句 V
 (这个房子，不论有没有保险，都需要装火警警铃。)
 
-中括弧内的部分是个状语从句，连词 whether 相当于外加的连词 no matter，引导这个状语从句修饰主要从句动词 needs。状语从句减化的方式是把重复的主语 it（代表the house）与空洞的 be 动词省略掉，如下：
+中括弧内的部分是个状语从句，连词 whether 相当于外加的连词 no matter，引导这个状语从句修饰主要从句动词 needs。状语从句减化的方式是把重复的主语 it（代表 the house）与空洞的 be 动词省略掉，如下：
 
 The house, [(whether) insured or not], <u>_needs_</u> a fire alarm.
 状语从句 V
@@ -159,9 +159,9 @@ The house, [(whether) insured or not], <u>_needs_</u> a fire alarm.
 [The job concluded], the secretary <u>_went_</u> home.
 减化状语从句 V
 
-### Being和having been的用法
+### Being 和 having been 的用法
 
-许多人搞不清楚 being 与它的完成状态 having been 该怎么使用。先看 being，它里面的 be 动词是空的、完全没有意义。会用到being，完全是需要它字尾的 -ing。这个字尾有两种功能：一是强调进行状态、一是做词类变化，这也就是being这个字的两大用途。例如：
+许多人搞不清楚 being 与它的完成状态 having been 该怎么使用。先看 being，它里面的 be 动词是空的、完全没有意义。会用到 being，完全是需要它字尾的 -ing。这个字尾有两种功能：一是强调进行状态、一是做词类变化，这也就是 being 这个字的两大用途。例如：
 
 <u>_The case_</u> <u>_is_</u> <u>_closed_</u> now.
 S V C
@@ -362,7 +362,7 @@ V 减化状语从句
 The boy <u>_left_</u> home early [<u>_so that he could be_</u> in time for the concert].
 V 状语从句
 
-状语从句的连词原本是 so that，引导状语从句（括弧内部分）修饰主要从句动词 left 的目的。将状语从句主语he省略、语气助动词 could 减化为表示不定式的 to 之后，空洞的连词 that 也一并省略，改以 so as to 来表达「目的」。
+状语从句的连词原本是 so that，引导状语从句（括弧内部分）修饰主要从句动词 left 的目的。将状语从句主语 he 省略、语气助动词 could 减化为表示不定式的 to 之后，空洞的连词 that 也一并省略，改以 so as to 来表达「目的」。
 
 #### So … as to
 
@@ -379,7 +379,7 @@ The air in the city is <u>_so_</u> polluted [<u>_that it may be_</u> dangerous t
 
 #### Such … as to
 
-So … that 引导的从句与 so … as to 引导的减化从句，专用于修饰形容词与副词等修饰语，因为其中的so是程度副词类。至于such … that引导的从句与such … as to引导的减化从句则用于修饰名词短语，因为其中的such是限定词类。例如：
+So … that 引导的从句与 so … as to 引导的减化从句，专用于修饰形容词与副词等修饰语，因为其中的 so 是程度副词类。至于 such … that 引导的从句与 such … as to 引导的减化从句则用于修饰名词短语，因为其中的 such 是限定词类。例如：
 
 The candidate made <u>_such_</u> an effort [<u>_as to be_</u> sure of success].
 减化状语从句
@@ -390,7 +390,7 @@ The candidate made <u>_such_</u> an effort [<u>_as to be_</u> sure of success].
 The candidate made <u>_such_</u> an effort [<u>_that he should be_</u> sure of success].
 状语从句
 
-将状语从句的主语与动词（he should be）减化为不定式短语to be之后，空洞的连词that也要删除掉、改以such … as to来修饰名词短语an effort。
+将状语从句的主语与动词（he should be）减化为不定式短语 to be 之后，空洞的连词 that 也要删除掉、改以 such … as to 来修饰名词短语 an effort。
 
 #### Only to
 
@@ -416,7 +416,7 @@ The news is <u>_too_</u> good [to be true].
 The news is <u>_so_</u> good [that it can’t be true].
 状语从句
 
-原本的状语从句是采用 so … that这组连词，表示「如此…以致于」，其中 so 是程度副词，整个状语从句修饰形容词 good。减化时将状语从句中的否定（not）交给带有否定意味的程度副词 too 来表达，主语 it 省略、助动词 can 减化为表示不定式的 to，整个状语从句就减化为 too … to be true，仍然用来修饰形容词 good 的程度。
+原本的状语从句是采用 so … that 这组连词，表示「如此…以致于」，其中 so 是程度副词，整个状语从句修饰形容词 good。减化时将状语从句中的否定（not）交给带有否定意味的程度副词 too 来表达，主语 it 省略、助动词 can 减化为表示不定式的 to，整个状语从句就减化为 too … to be true，仍然用来修饰形容词 good 的程度。
 
 #### Enough … to
 
@@ -441,7 +441,7 @@ The new is <u>_so_</u> bad [that it can make me cry].
 [If I can tell you the truth], I want to quit.
 状语从句
 
-减化的方式是省略主语I、助动词减化为表示不定式的to，再把连词if省掉，就会变成to tell you the truth。还有一些惯用的短语其实也都是类似的减化从句，如下：
+减化的方式是省略主语 I、助动词减化为表示不定式的 to，再把连词 if 省掉，就会变成 to tell you the truth。还有一些惯用的短语其实也都是类似的减化从句，如下：
 
 [To be honest with you], I didn’t take the money.
 （坦白跟你说，我没拿那笔钱。）
@@ -520,7 +520,7 @@ The fruit <u>_doesn’t turn_</u> red [until it is completely ripe].
 V 状语从句
 (这种水果到全熟之后才会变红。)
 
-中括弧内的状语从句修饰动词 doesn’t turn 的时间。减化的方式是省略掉重复的主语 it、无意义的 be 动词，剩下补语部分的形容词短语 completely ripe。因为连词 until 有意义，应该选择留下来。但是它一旦留下来就会转变为介词，所以不能只有形容词短语 completely ripe 在它后面，必须进行词类变化（加上无意义的动名词being），如下：
+中括弧内的状语从句修饰动词 doesn’t turn 的时间。减化的方式是省略掉重复的主语 it、无意义的 be 动词，剩下补语部分的形容词短语 completely ripe。因为连词 until 有意义，应该选择留下来。但是它一旦留下来就会转变为介词，所以不能只有形容词短语 completely ripe 在它后面，必须进行词类变化（加上无意义的动名词 being），如下：
 
 The fruit <u>_doesn’t turn_</u> red [until being completely ripe].
 V 介词短语
@@ -542,7 +542,7 @@ V 介词短语
 状语从句 V
 (因为我是科学家，我只相信具体事实。)
 
-中括弧内的状语从句修饰动词 believe in。减化的方式是省略掉重复的主语I与空洞的 am，只留下补语部分 a scientist。这是个名词补语，和原来状语从句的词类出入太大。可以加上 being 来做词类变化，成为分词构句如下：
+中括弧内的状语从句修饰动词 believe in。减化的方式是省略掉重复的主语 I 与空洞的 am，只留下补语部分 a scientist。这是个名词补语，和原来状语从句的词类出入太大。可以加上 being 来做词类变化，成为分词构句如下：
 
 [Being a scientist], I <u>_believe in_</u> concrete facts only.
 减化状语从句 V
@@ -599,7 +599,7 @@ V 介词短语
 状语从句 V
 (因为有充分的准备，这个学生考试考得很好。)
 
-中括弧内的状语从句修饰动词did的原因。减化时可以选择把连词because改写为because of, as a result of, owing to之类，再把动词短语had prepared adequately改为名词短语adequate preparation，如下：
+中括弧内的状语从句修饰动词 did 的原因。减化时可以选择把连词 because 改写为 because of, as a result of, owing to 之类，再把动词短语 had prepared adequately 改为名词短语 adequate preparation，如下：
 
 [As a result of adequatel preparation], the student <u>_did_</u> well at the exam.
 状语从句 V

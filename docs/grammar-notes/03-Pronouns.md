@@ -5,13 +5,13 @@
 请先看看几个例子：
 
 Mary is <u>_pretty_</u>; <u>_so_</u> is her sister.
-（Mary很漂亮，她妹妹也一样。）
+（Mary 很漂亮，她妹妹也一样。）
 
 Mary <u>_speaks_</u> French; so <u>_does_</u> her sister.
-（Mary说法文，她妹妹也一样。）
+（Mary 说法文，她妹妹也一样。）
 
 <u>_Mary_</u> is pretty; <u>_she_</u> is also smart.
-（Mary很漂亮，她还很聪明。）
+（Mary 很漂亮，她还很聪明。）
 
 第 1 句当中以副词 so 替代前面的形容词 pretty 以避免重复。第2句当中以助动词 does 替​​代动词 speak 以避免重复。第3句则是以代词 she 替代词 Mary 以避免重复。像 so, do, she 这些用来取代他人以避免重复的字，可以笼统称为**代词（pro-forms）**。各种代词当中，写作时比较容易出错、因而也比较值得探讨的，就是**代词（pronouns）**。
 
@@ -32,7 +32,7 @@ Mary <u>_speaks_</u> French; so <u>_does_</u> her sister.
 <u>_People_</u> often think that <u>_our_</u> difficulties are unique. （不佳）
 （大家经常以为我们碰到的困难是独一无二的。）
 
-句中的代词 our，代表的先行词是 people。但是，people是第三人称、our却是第一人称，并不一致。下面两种改法都符合一致性的要求，可以接受：
+句中的代词 our，代表的先行词是 people。但是，people 是第三人称、our 却是第一人称，并不一致。下面两种改法都符合一致性的要求，可以接受：
 
 <u>_People_</u> often think that <u>_their_</u> difficulties are unique.
 <u>_We_</u> often think that <u>_our_</u> difficulties are unique.

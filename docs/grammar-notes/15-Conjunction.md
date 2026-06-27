@@ -11,12 +11,12 @@
 句子的主语部分可以用并列连词放进两个以上的名词短语，例如：
 
 <u>_George and Mary_</u> were good friends.
-（George和Mary是好朋友。）
+（George 和 Mary 是好朋友。）
 
 这个句子的主语部分有 George 和 Mary 这两个专有名词。因为中间有并列连词 and 做连接，所以这两个名词可以并列在主语位置、共同当主语使用（采用复数动词）。
 
 <u>_George, Mary, and Jane_</u> were always together.
-（George, Mary和Jane一天到晚都在一起。）
+（George, Mary 和 Jane 一天到晚都在一起。）
 
 如果有三个以上的名词并列在主语位置，连词还是可以只用一个 and，前面用逗点把名词隔开即可。
 
@@ -32,7 +32,7 @@ We always <u>_worked and played_</u> together.
 We always worked together.
 We always played together.
 
-这两个句子用并列连词and连接起来，就会成为下面这个合句：
+这两个句子用并列连词 and 连接起来，就会成为下面这个合句：
 
 <u>_We always worked together_</u> and <u>_we always played together_</u>.
 
@@ -50,7 +50,7 @@ We <u>_ran, jumped, and shouted_</u> for joy.
 He speaks <u>_Cantonese but not Mandarin_</u>.
 （他说广东话，但不会说普通话。）
 
-句中的 Cantonese 与 Mandarin 都是专有名词，用并列连词 but (not) 连接起来、共同当及物动词speak的宾语使用。
+句中的 Cantonese 与 Mandarin 都是专有名词，用并列连词 but (not) 连接起来、共同当及物动词 speak 的宾语使用。
 
 We take our holidays <u>_in July or August_</u>.
 （我们在七月或八月去休假。）
@@ -105,7 +105,7 @@ War is <u>_destructive, wasteful, and ultimately a futile deed_</u>. （误）
 
 战争具有毁灭性、非常浪费，归根究柢也是徒劳无功的行为。
 
-并列连词 and 前面有两个形容词 destructive 和 wasteful，那么后面也应该是形容词才能符合对称的要求。但是and后面放的却是名词短语 ultimately a futile deed，词类不对。应该修改如下：
+并列连词 and 前面有两个形容词 destructive 和 wasteful，那么后面也应该是形容词才能符合对称的要求。但是 and 后面放的却是名词短语 ultimately a futile deed，词类不对。应该修改如下：
 
 War is <u>_destructive, wasteful, and ultimately futile_</u>.
 
@@ -113,10 +113,10 @@ War is <u>_destructive, wasteful, and ultimately futile_</u>.
 
 What I like about John is <u>_his sincerity, humor, and because he is mature_</u>. （误）
 
-这个句子，主语部分是 what I like about John 这个名词从句，动词是 be 动词。后面的补语部分 his sincerity, humor, and because he is mature 有错误。 His sincerity 是个名词短语，由限定词 his 加名词 sincerity 构成；Humor 是个名词；后面的 because he is mature 则是个状语从句。这三个部分，构造各不相同，却用并列连词 and 连接在一起，违反并列连词的对称要求。应该改为三个名词短语 his sincerity, his humor, his maturity，用并列连词 and 连接起来，然后省略掉两个重复的限定词his，如下：
+这个句子，主语部分是 what I like about John 这个名词从句，动词是 be 动词。后面的补语部分 his sincerity, humor, and because he is mature 有错误。 His sincerity 是个名词短语，由限定词 his 加名词 sincerity 构成；Humor 是个名词；后面的 because he is mature 则是个状语从句。这三个部分，构造各不相同，却用并列连词 and 连接在一起，违反并列连词的对称要求。应该改为三个名词短语 his sincerity, his humor, his maturity，用并列连词 and 连接起来，然后省略掉两个重复的限定词 his，如下：
 
 What I like about John is <u>_his sincerity, humor, and maturity_</u>.
-（我喜欢John是因为他的诚实、幽默与成熟。）
+（我喜欢 John 是因为他的诚实、幽默与成熟。）
 
 ## 相关字组
 

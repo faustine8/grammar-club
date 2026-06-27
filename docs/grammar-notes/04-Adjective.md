@@ -63,7 +63,7 @@ Mr. Wang, my boss, is <u>_a busy man_</u>.
 
 以 that savings bank 这个例子来说，中间位置的形容词用的就是复数的 savings。这是因为：「储蓄」通常就是拼成复数形的 savings。如果拼成单数 saving，意思会变成「节省」或「挽救」。只有储蓄银行，没有什么「节省」银行，所以 savings 必须用复数。
 
-在 damages negotiations 这个名词短语中，零冠词和名词中间放的是 damages 这个复数拼法的字当形容词使用。这是因为：单数的 damage 意思是「损害」、复数的damages才是「赔偿」。如果写成 damage negotiations，意思就变成「损害谈判」而非「赔偿谈判」。
+在 damages negotiations 这个名词短语中，零冠词和名词中间放的是 damages 这个复数拼法的字当形容词使用。这是因为：单数的 damage 意思是「损害」、复数的 damages 才是「赔偿」。如果写成 damage negotiations，意思就变成「损害谈判」而非「赔偿谈判」。
 
 在 several clothes hangers 这个名词短语中，形容词位置放的也是复数形的 clothes。这是因为：如果采单数形会变成 several cloth hangers「几支『布』架」。单数的 cloth 意思是「布」，必须拼成复数 clothes 才是「衣服」的意思。所以只有 clothes hanger 这种拼法才是「衣架」。
 
@@ -144,7 +144,7 @@ Mr. Turner is <u>_the present Chairman_</u>.
 名词短语中的形容词 present 意思是「现任的」，功用类似时间副词。亦即，整个句子可以这样讲：Tr. Turner is the Chairman at present。如果把形容词 present 直接放在补语位置，成为 The Chairman is present，意思就会转变成「主席在场」。下面这个例子的情况也类似：
 
 George Pritchard is <u>_an old friend_</u>.
-（George Pritchard是个老朋友。）
+（George Pritchard 是个老朋友。）
 
 名词短语中的形容词 old 并不是真的说这位朋友「年纪很大」，而是类似时间副词的功能，表示「从很久以前」就认识了。整个句子的意思类似 George Pritchard is a friend from a long time ago。如果直接把 old 放在补语位置，成为 The friend is old，那么意思就会转变成「这位朋友老了（年纪大了）」。
 
@@ -188,7 +188,7 @@ I am meeting <u>_someone important_</u> tonight.
 有一批 a- 开头的形容词不能放在名词短语中。这种 a- 开头的形容词可以放在补语位置。但是还有另外一个选择：可以直接放在名词短语后面。例如：
 
 <u>_Jane and her mother alike_</u> are teachers.
-（Jane和她妈妈一样都是做老师的。）
+（Jane 和她妈妈一样都是做老师的。）
 
 并列连词 and 连接 Jane 和 her mother 这两个名词短语。形容词 alike 不能放在名词短语中，但是可以放在名词短语后面，成为 Jane and her mother alike。类似的例子有 these people alone「光是这些人」、wood adrift「漂流的木头」、all the pandas alive「所有现存的大猫熊」，都是 a- 开头的形容词当做后位修饰语。
 

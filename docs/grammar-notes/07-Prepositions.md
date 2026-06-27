@@ -100,7 +100,7 @@ The manager <u>_will look into your complaint_</u> at once.
 #### take after 类似，像
 
 Henry <u>_takes after his father_</u>.
-（Henry很像他爸爸。）
+（Henry 很像他爸爸。）
 
 #### stand by 支援
 
@@ -124,7 +124,7 @@ How did this all <u>_come about_</u>?
 #### fall off 下跌
 
 Business <u>_has fallen off_</u> badly since the SARS epidemic.
-（自從SARS疫情以來，生意慘跌。）
+（自從 SARS 疫情以來，生意慘跌。）
 
 #### go off 爆炸
 
@@ -145,7 +145,7 @@ That woman <u>_brought eight children up_</u>.
 That woman <u>_brought them up_</u>.
 （那个女人抚养八个小孩长大。）
 
-像 bring up 这种短语动词属于及物动词，它的宾语 eight children 可以放在 bring up 的后面、也可以把 bring 与 up 拆开来放在中间。像这一类的短语动词，如果宾语是代词（如them）就不适合放在后面，而必须把短语动词拆开、宾语放中间（如brought them up）。原因在于：后面的位置是比较重要的位置，念起来重音也会落在这个位置。但是代词是比较不重要的东西，不宜念成重音。所以，只要短语动词是可以拆开的那种、而宾语又是代词，就必须拆开来把代词放在中间、把后面要念成重音的位置留给短语动词中的介副词（如 brought them up）。
+像 bring up 这种短语动词属于及物动词，它的宾语 eight children 可以放在 bring up 的后面、也可以把 bring 与 up 拆开来放在中间。像这一类的短语动词，如果宾语是代词（如 them）就不适合放在后面，而必须把短语动词拆开、宾语放中间（如 brought them up）。原因在于：后面的位置是比较重要的位置，念起来重音也会落在这个位置。但是代词是比较不重要的东西，不宜念成重音。所以，只要短语动词是可以拆开的那种、而宾语又是代词，就必须拆开来把代词放在中间、把后面要念成重音的位置留给短语动词中的介副词（如 brought them up）。
 
 #### call off 取消
 
@@ -180,12 +180,12 @@ He and his separated wife finally <u>_made up_</u>.
 He'<u>_s slowly catching up with his classmates_</u> in exam grades.
 （他的考试成绩渐渐赶上同班同学了。）
 
-从前的语法书称短语动词为「双字动词」（two-word verbs），但是这个名称不很贴切，因为短语动词有时候不只两个字，例如 catch up with。短语动词如果是三个字，通常第一个是动词（如catch）、第二个是介副词（如 up）、第三个是介词（如 with）。因为第三个是介词，后面必须有宾语，所以凡是这种三个字以上的短语动词都是及物动词，而且都不可拆、宾语一定要放在后面。以下几个例子都是同样的情况。
+从前的语法书称短语动词为「双字动词」（two-word verbs），但是这个名称不很贴切，因为短语动词有时候不只两个字，例如 catch up with。短语动词如果是三个字，通常第一个是动词（如 catch）、第二个是介副词（如 up）、第三个是介词（如 with）。因为第三个是介词，后面必须有宾语，所以凡是这种三个字以上的短语动词都是及物动词，而且都不可拆、宾语一定要放在后面。以下几个例子都是同样的情况。
 
 #### drop out of 退出，中辍
 
 John hurt his leg and had to <u>_drop out of the race_</u>.
-(John腿受伤，不得不退出比赛。)
+(John 腿受伤，不得不退出比赛。)
 
 #### get away with 侥幸逃脱，全身而退
 
@@ -264,7 +264,7 @@ The speaker is standing <u>_on the platform_</u>.
 I like to stay <u>_in my office_</u> because it's quiet there.
 (我喜欢待在自己办公室里头，因为很安静。)
 
-所谓「点、线、面、体」的认定，其实是主观的。上面这个句子表示「办公室里头很安静」，那是把办公室视为一个具有长、宽、高的立体看待，所以介词用in。但是下面这个例子就不一样了：
+所谓「点、线、面、体」的认定，其实是主观的。上面这个句子表示「办公室里头很安静」，那是把办公室视为一个具有长、宽、高的立体看待，所以介词用 in。但是下面这个例子就不一样了：
 
 We'll go our separate ways, and meet <u>_at my office_</u> at three.
 (我们各走各的，三点钟在我办公室碰面。)
@@ -421,7 +421,7 @@ Do you know <u>_what_</u> Tom has been <u>_up to_</u> recently?
 The Rhine flows <u>_between France and Germany_</u>.
 (莱茵河流经法国与德国中间。)
 
-「两个中间」用 between，这个例子刚好是法国和德国这「两个」，所以用 between。不过，采用between真正的理由并不在于「两个」、而在于「夹在中间」：莱茵河夹在法国德国中间，所以要用 between。换句话说，在这里采用 between 是因为具有标示位置的功能。
+「两个中间」用 between，这个例子刚好是法国和德国这「两个」，所以用 between。不过，采用 between 真正的理由并不在于「两个」、而在于「夹在中间」：莱茵河夹在法国德国中间，所以要用 between。换句话说，在这里采用 between 是因为具有标示位置的功能。
 
 <u>_Among the major cities_</u> in the world, Shanghai is probably developing most rapidly.
 (在世界各大城市之中，上海很可能是目前发展最快速的。)
@@ -486,7 +486,7 @@ He usually <u>_goes to bed_</u> before 11:00.
 He’s <u>_going toward the bed_</u>.
 (他向床走过去。)
 
-第 1 句里面的 go to bed是 个特定的短语，表示「上床睡觉」，这时候 bed 这个普通名词要采抽象化处理、加零冠词。但是如果介词换成 toward、成为 go toward the bed，意思就不再是「上床睡觉」，而是「朝那张床走过去」。这时候 bed 仍然是个普通名词，必须有限定词。
+第 1 句里面的 go to bed 是 个特定的短语，表示「上床睡觉」，这时候 bed 这个普通名词要采抽象化处理、加零冠词。但是如果介词换成 toward、成为 go toward the bed，意思就不再是「上床睡觉」，而是「朝那张床走过去」。这时候 bed 仍然是个普通名词，必须有限定词。
 
 I love to travel <u>_by sea_</u>.
 (我喜欢航海旅行。)
@@ -521,7 +521,7 @@ The secretary had to retype the letter which, <u>_under the order of the manager
 
 I <u>_saw_</u> that many houses <u>_were destroyed_</u> by fire <u>_on TV_</u>. （不佳）
 
-介词短语 by fire 放在被动态的动词 were destroyed 后面修饰它，意思很清楚（「被火烧毁」）。但是另一个介词短语 on TV 是个地方副词，放在这个位置一方面是全句的句尾、另一方面又是名词从句（that从句）的句尾，所以它可以修饰主要从句的动词 saw、也可以修饰名词从句的动词 were destroyed，造成模棱两可的结果。应修改如下：
+介词短语 by fire 放在被动态的动词 were destroyed 后面修饰它，意思很清楚（「被火烧毁」）。但是另一个介词短语 on TV 是个地方副词，放在这个位置一方面是全句的句尾、另一方面又是名词从句（that 从句）的句尾，所以它可以修饰主要从句的动词 saw、也可以修饰名词从句的动词 were destroyed，造成模棱两可的结果。应修改如下：
 
 <u>_On TV_</u> I <u>_saw_</u> that many houses were destroyed by fire.
 (在电视上我看到许多房子被火烧毁。)

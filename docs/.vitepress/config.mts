@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/grammar-club/',
   title: "Grammar Club",
-  description: "从单句到减化子句的英文句型地图",
+  description: "从简单句到简化从句的英文句型地图",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -15,9 +15,9 @@ export default defineConfig({
         activeMatch: '/grammar-notes/',
         items: [
           { text: '学习路径', link: '/#learning-path' },
-          { text: '基础元素', link: '/grammar-notes/01-SimpleSentences.md' },
-          { text: '复合句架构', link: '/grammar-notes/16-CompoundSentences.md' },
-          { text: '减化子句', link: '/grammar-notes/22-ReducedClauses.md' }
+          { text: '简单句', link: '/grammar-notes/01-SimpleSentences.md' },
+          { text: '复合句', link: '/grammar-notes/16-CompoundSentences.md' },
+          { text: '简化从句', link: '/grammar-notes/22-ReducedClauses.md' }
         ]
       },
       { text: 'Terminology', link: '/terminology.md' },
@@ -30,6 +30,8 @@ export default defineConfig({
       // }
     ],
 
+    outline: [2, 3],
+
     sidebar: {
       '/grammar-notes/': [
         {
@@ -41,7 +43,7 @@ export default defineConfig({
           ]
         },
         {
-          text: '基础元素',
+          text: '简单句',
           items: [
             { text: 'Simple Sentences', link: '/grammar-notes/01-SimpleSentences.md' },
             { text: 'Noun Phrases', link: '/grammar-notes/02-NounPhrases.md' },
@@ -60,7 +62,7 @@ export default defineConfig({
           ]
         },
         {
-          text: '复合句架构',
+          text: '复合句',
           items: [
             { text: 'Conjunction', link: '/grammar-notes/15-Conjunction.md' },
             { text: 'Compound Sentences', link: '/grammar-notes/16-CompoundSentences.md' },
@@ -72,7 +74,7 @@ export default defineConfig({
           ]
         },
         {
-          text: '减化子句',
+          text: '简化从句',
           items: [
             { text: 'Reduced Clauses', link: '/grammar-notes/22-ReducedClauses.md' },
             { text: 'Relative Clauses Reduced', link: '/grammar-notes/23-RelativeClausesReduced.md' },

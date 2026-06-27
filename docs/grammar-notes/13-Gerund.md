@@ -10,7 +10,7 @@
 （抽烟是个坏习惯。）
 
 <u>_John’s smoking three packs of cigarettes a day_</u> ruined his lungs.
-（John每天抽三包烟，把肺都搞坏了。）
+（John 每天抽三包烟，把肺都搞坏了。）
 
 例 1 这个句子，主语 smoking 是个动名词。像这种单纯的情况（只有一个单词），可以直接把 smoking 视为动词 smoke 的词类变化：字尾加上 -ing 转变成名词类使用，smoking 就是一个不可数的抽象名词，前面采用零冠词。在例 2 中，主语 John’s smoking three packs of cigarettes a day 虽然也是动名词，但是情况显然比较复杂。若还原为以下的复句会比较清楚：
 

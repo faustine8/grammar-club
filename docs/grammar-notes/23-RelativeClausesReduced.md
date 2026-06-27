@@ -1,6 +1,6 @@
 # 第二十三章 关系从句减化
 
-从属从句减化的共同做法是省略掉主语与be动词、只留下补语部分，关系从句的减化也不例外。关系从句的减化，通常都是因为关系代词刚好就是关系从句的主语，因为和先行词重复而产生了可以减化的空间。只要省略掉关系从句中这个重复的主语以及空洞的be动词、留下补语，就是典型的关系从句减化。
+从属从句减化的共同做法是省略掉主语与 be 动词、只留下补语部分，关系从句的减化也不例外。关系从句的减化，通常都是因为关系代词刚好就是关系从句的主语，因为和先行词重复而产生了可以减化的空间。只要省略掉关系从句中这个重复的主语以及空洞的 be 动词、留下补语，就是典型的关系从句减化。
 
 关系从句如此减化之后，剩下来的就是原来的主语补语部分，可以分成现在分词短语、过去分词短语、形容词、名词等几种情况。 如果关系从句当中的动词短语有语气助动词在内，减化的结果会变成不定式短语。这种情况的关系从句，主语部分有比较大的弹性：可以是关系代词当主语、也可以是关系代词当宾语，甚至可以是关系副词当连词、主语另有其人。
 
@@ -154,7 +154,7 @@ I love <u>_these high peaks_</u>.
 S V C
 (这些高峰被白雪覆盖。)
 
-这两个句子在these high peaks建立关系，可以改写为关系代词、制造出下面这个复句：
+这两个句子在 these high peaks 建立关系，可以改写为关系代词、制造出下面这个复句：
 
 I love <u>_these high peaks_</u>, [which are covered with snow].
 先行词 关系从句
@@ -234,7 +234,7 @@ This movie features <u>_Tom Hanks_</u>, [who is my favorite movie star].
 
 这部电影主打汤姆汉克斯，那是我最喜爱的影星。
 
-关系从句的主语就是关系代词 who，和先行词重复。这个关系从句放在一对逗点里面，属于补充说明的性质、不具指示功能。减化的方式是把重复的主语和空洞的be动词省略，剩下的主语补语是名词短语 my favorite movie star，也就是传统语法所谓的同位格，如下：
+关系从句的主语就是关系代词 who，和先行词重复。这个关系从句放在一对逗点里面，属于补充说明的性质、不具指示功能。减化的方式是把重复的主语和空洞的 be 动词省略，剩下的主语补语是名词短语 my favorite movie star，也就是传统语法所谓的同位格，如下：
 
 This movie features <u>_Tom Hanks_</u>, [my favorite movie star].
 先行词 减化关系从句
@@ -293,7 +293,7 @@ I’ll show you <u>_the way_</u> [how you can start this machine].
 先行词 关系从句
 (我告诉你该怎么发动这台机器。)
 
-关系从句的连词是关系副词 how，因为没有逗点隔开所以可以先行省略。接下来进行减化：省略掉重复的主语 you（与主要从句的宾语you重复）、助动词 can 减化为表示不定式的 to，如下：
+关系从句的连词是关系副词 how，因为没有逗点隔开所以可以先行省略。接下来进行减化：省略掉重复的主语 you（与主要从句的宾语 you 重复）、助动词 can 减化为表示不定式的 to，如下：
 
 I’ll show you <u>_the way_</u> [to start this machine].
 先行词 减化关系从句
@@ -304,7 +304,7 @@ I’m glad <u>_because I have_</u> <u>_something_</u> [that I can look forward t
 状语从句 先行词 关系从句
 (我很高兴，因为我有一件可以盼望的事。)
 
-关系从句中的关系代词 that（相当于which）是介词 to 的宾语。因为这个关系从句并没有用逗点和先行词隔开，具有指示功能，所以当宾语使用的关系代词that可以先行省略，剩下 I can look forward to 再来进行减化。减化的做法是省掉重复的主语 I、助动词 can 减化为表示不定式的 to，如下：
+关系从句中的关系代词 that（相当于 which）是介词 to 的宾语。因为这个关系从句并没有用逗点和先行词隔开，具有指示功能，所以当宾语使用的关系代词 that 可以先行省略，剩下 I can look forward to 再来进行减化。减化的做法是省掉重复的主语 I、助动词 can 减化为表示不定式的 to，如下：
 
 I’m glad <u>_because I have_</u> <u>_something_</u> [to look forward to].
 状语从句 先行词 减化关系从句
@@ -421,7 +421,7 @@ These people must be notified first.
 The news can’t be released yet [because there are <u>_some people_</u>] <u>_who must be notified first_</u>.
 状语从句 先行词 关系从句
 
-主要从句是 The news can't be released yet，状语从句（中括号内）的主语是 some people，关系从句（画底线部分）的主语 who 也代表 some people，前后两个从句主语相同、符合连贯性原则。这个关系从句如果进行减化，做法是删掉重复的主语、助动词must减化为表示不定式的to，就会成为：
+主要从句是 The news can't be released yet，状语从句（中括号内）的主语是 some people，关系从句（画底线部分）的主语 who 也代表 some people，前后两个从句主语相同、符合连贯性原则。这个关系从句如果进行减化，做法是删掉重复的主语、助动词 must 减化为表示不定式的 to，就会成为：
 
 The news can’t be released yet because there are some people <u>_to be notified first_</u>.
 
@@ -448,7 +448,7 @@ I’m looking for <u>_a motorcycle_</u> [for my wife to ride].
 
 Do you know <u>_the girl_</u> [who is sitting next to John]?
 先行词 关系从句
-(你认不认识坐在John旁边那个女孩？)
+(你认不认识坐在 John 旁边那个女孩？)
 
 关系从句（中括弧内的部分）的主语就是关系代词 who，在进行减化时会跟 be 动词一并省略，成为：
 
