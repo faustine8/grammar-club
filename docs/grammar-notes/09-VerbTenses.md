@@ -12,10 +12,10 @@
 
 英文动词当中有一批相当「名不符实」，虽然叫做动词却并没有「动作」在里头。真正名符其实的动词如 hit, kill, eat, run, talk, jump, swim 等等，代表的都是某种「动作」。以传统语法的分类来说，这种「动态」的动词才能够有所谓的「进行时」，也就是说只有动态动词才适合加上 -ing 字尾变成现在分词、用来表示「正在做」或「一直在做」某个动作。例如：
 
-He <u>_is_</u> <u>_eating breakfast_</u> now.
+He <u>is</u> <u>eating breakfast</u> now.
 （他现在正在吃早餐。）
 
-The dog <u>_was_</u> <u>_swimming_</u> toward the shore then.
+The dog <u>was</u> <u>swimming</u> toward the shore then.
 （狗当时正在朝岸边游。）
 
 如果依照传统语法的诠释，第 1 句的动词是 is eating、「现在进行时」；第2句的动词是 was swimming、「过去进行时」。关键在于 eat 和 swim 都是属于「动态动词」、代表的是「动作」，所以才可以有进行时，表示「正在做」或「一直做」这个动作。
@@ -28,40 +28,40 @@ The dog <u>_was_</u> <u>_swimming_</u> toward the shore then.
 
 以下举一些常见的静态动词为例，请读者一句句思考一下：句中画底线的部分都是动词，但没有一个真正代表「动作」（像 kill, eat 那种动作），所以都不能采用表示「正在做、一直做」的 -ing 字尾（也就是不能采用进行时）。
 
-I <u>_am_</u> busy; I <u>_have_</u> a lot of work to do.
+I <u>am</u> busy; I <u>have</u> a lot of work to do.
 （我很忙；我有一堆工作要做。）
 
-This camera <u>_belongs_</u> to me.
+This camera <u>belongs</u> to me.
 （这架相机属于我。）
 
-George <u>_resembles_</u> his father a lot.
+George <u>resembles</u> his father a lot.
 （乔治很像他爸爸。）
 
-I <u>_believe_</u> his story.
+I <u>believe</u> his story.
 （我相信他的故事。）
 
-I <u>_like_</u> milkshakes.
+I <u>like</u> milkshakes.
 （我喜欢奶昔。）
 
-I <u>_consider_</u> him a true friend.
+I <u>consider</u> him a true friend.
 （我认为他是真正的朋友。）
 
 以上这些句子中的动词如 have, belong, resemble, believe, like, consider，思考一下就会发现都不是真正的「动作」，所以都不适合说「正在做」或「一直做」，因此也都不适合采用现在分词的进行状态。不过，同样的静态动词如果改变用法、拿来表示「动作」时，就可以加 -ing 字尾、可以有所谓的进行时了。例如，「是」（be）、「有」（have）和「认为」（consider）都不是真正的动作、属于静态动词。但是，如果 be 解释为「表现」、have 解释为「吃」、consider 解释为「研究」，那就变成了动作，可以用 -ing 来表示「正在表现」、「正在吃」或「正在研究」 ：
 
-When I said she looked 25, I was <u>_being_</u> nice.
+When I said she looked 25, I was <u>being</u> nice.
 （我说她看起来像25岁，那是在表现礼貌。）
 
-He was <u>_having_</u> lunch when I called.
+He was <u>having</u> lunch when I called.
 （我打电话去的时候他正在吃午餐。）
 
-The committee is <u>_considering_</u> your proposal.
+The committee is <u>considering</u> your proposal.
 （委员会正在研究你的提案。）
 
 ## 一般时
 
 一般时状态，主要用于交代动作发生在什么时间内。所以，除非上下文已经有暗示、对方已经知道是什么时间，否则必须要明确说出动作发生的时间。举一个例子：
 
-I <u>_saw_</u> the movie <u>_last week_</u>.
+I <u>saw</u> the movie <u>last week</u>.
 （那部电影我是上礼拜看的。）
 
 当然，所谓 last week 严格讲起来有七天之久，而「看电影」的动作可能花不到两个小时。不过，一般时的情况通常就是这样：说出一段时间（如 last week），动作只要落在这段时间之内就行。
@@ -70,7 +70,7 @@ I <u>_saw_</u> the movie <u>_last week_</u>.
 
 一般时状态可以用图像的方式来理解：它标示出来的时间呈括弧形状，动作就落在括弧里面。如果这个括弧是在过去，就应采用一般过去时。例如：
 
-The U.S. <u>_declared_</u> independence <u>_in 1776_</u>.
+The U.S. <u>declared</u> independence <u>in 1776</u>.
 （美国在1776年宣告独立。）
 
 图示：
@@ -79,7 +79,7 @@ The U.S. <u>_declared_</u> independence <u>_in 1776_</u>.
 
 这个句子的时间副词是 in 1776 这个介词短语，标示出一个过去时间的括弧，动作落在这个括弧内，所以动词应采一般过去时 declared。
 
-The dynamite <u>_was_</u> invented by the Chinese.
+The dynamite <u>was</u> invented by the Chinese.
 （火药是中国人发明的。）
 
 图示：
@@ -88,7 +88,7 @@ The dynamite <u>_was_</u> invented by the Chinese.
 
 这个句子里面找不到时间副词，但是从句意来看，它描述的事情发生在久远以前，所以它的时间是个过去的括弧，动词应该是一般过去时。复杂的动词时态一定会有 be 动词在内。认定 be 为动词，它的一般过去时就是 was。后面的过去分词 invented 视为形容词，表达出「被动」语态，解释为「被发明」，作主语补语使用、修饰主语 dynamite。这就是一般语法书所谓的过去简单被动态。
 
-I <u>_was_</u> playing a video game when the power suddenly <u>_went out_</u>.
+I <u>was</u> playing a video game when the power suddenly <u>went out</u>.
 （我正在打电动，忽然停电了。）
 
 图示：
@@ -97,7 +97,7 @@ I <u>_was_</u> playing a video game when the power suddenly <u>_went out_</u>.
 
 这个句子的时间副词是 when 引导的那个状语从句。从状语从句里面的一般过去时动词 went out 来看，它的时间是一个过去的括弧——而且是个极小的括弧：从「有电」变成「没电」的那一刹那。以这个时间状语从句修饰主要从句的动词（我们一律认定 be 为动词），那么主要从句也应该是一般过去时，所以动词是 was。后面的现在分词短语 playing a video game 是动词 play 加宾语 a video game 的构造，加上 -ing 字尾变成现在分词短语之后就是一个形容词短语，当作主语补语使用、修饰主语 I 。现在分词的 -ing 字尾表达进行状态，相当于中文的「正在」（短时间）或「一直」（长时间）。就上面这个例子而言，playing a video game 应解释为「正在打电动」。这就是一般语法书所谓的过去进行时。
 
-I <u>_was_</u> working on my paper <u>_throughout last week_</u>
+I <u>was</u> working on my paper <u>throughout last week</u>
 . （上周一整个礼拜我都在写论文。）
 
 图示：
@@ -106,7 +106,7 @@ I <u>_was_</u> working on my paper <u>_throughout last week_</u>
 
 这个句子的时间副词 throughout last week 是个介词短语，表现出一个过去时间的括弧。动词因而要采一般过去时 was。后面的现在分词短语 working on my report 视为形容词短语，-ing 字尾表达进行状态，因为是长时间所以就解释为「一直」在写论文，当作主语补语使用、修饰主语 I。
 
-The house <u>_was_</u> being renovated when it <u>_collapsed_</u> on the workers
+The house <u>was</u> being renovated when it <u>collapsed</u> on the workers
 . （这栋房子正在翻修，突然塌下来压到工人。）
 
 图示：
@@ -119,7 +119,7 @@ The house <u>_was_</u> being renovated when it <u>_collapsed_</u> on the workers
 
 一般现在时，它的时间就是以 now 为中心​​的一个括弧。所有的一般时都是括弧形状的时间，但是一般过去时的括弧在 now 之前、未来一般时的括弧在 now 之后，所以括弧的大小都受到限制。只有一般现在时的括弧是以 now 为中心​​，它的大小不受限制，可以大到无限大、包含过去未来的一切时间。传统语法列出规则说「真理、事实等要用一般现在时」，原因就在此。看看几个例子：
 
-I <u>_have_</u> a headache.
+I <u>have</u> a headache.
 （我头痛。）
 
 图示：
@@ -128,7 +128,7 @@ I <u>_have_</u> a headache.
 
 这个句子虽然没有时间副词，但是一般现在时的动词 have 清楚表示时间就是 now。
 
-Wang Chien-Ming <u>_pitches_</u> for the Yankees.
+Wang Chien-Ming <u>pitches</u> for the Yankees.
 （王建民为洋基队投球。）
 
 图示：
@@ -137,7 +137,7 @@ Wang Chien-Ming <u>_pitches_</u> for the Yankees.
 
 这一句并没有时间副词，不过暗示是「现在」。王建民几年前不是洋基队的投手、几年后他也可能不再是。这个句子的时间是一个以 now 为中心​​的比较大的括弧，仍然该用一般现在时。
 
-Our summer house <u>_is_</u> located on the lake.
+Our summer house <u>is</u> located on the lake.
 （我们的避暑别墅座落在湖边。）
 
 图示：
@@ -146,7 +146,7 @@ Our summer house <u>_is_</u> located on the lake.
 
 这个句子同样也没有时间副词，但是一般现在时的动词 is 表示它的时间是一个以 now 为核心的括弧。后面的过去分词短语 located on the lake 是形容词补语，表达出被动语态：字面上是「被摆在湖边」，也就是「座落在湖边」。这就是一般语法书所谓的现在简单被动态。
 
-Please be quiet, because everybody <u>_is_</u> sleeping <u>_now_</u>.
+Please be quiet, because everybody <u>is</u> sleeping <u>now</u>.
 （请安静，因为大家都在睡觉。）
 
 图示：
@@ -155,7 +155,7 @@ Please be quiet, because everybody <u>_is_</u> sleeping <u>_now_</u>.
 
 Because 引导的这个表示原因的状语从句，时间是 now，动词用的是一般现在时 is。后面的现在分词 sleeping 视为形容词补语，表达出「进行」状态，解释为「正在」睡觉。这就是一般语法书所谓的现在进行时。
 
-This store <u>_is_</u> selling everything at a 30% discount <u>_this week_</u>, to celebrate its 20th anniversary.
+This store <u>is</u> selling everything at a 30% discount <u>this week</u>, to celebrate its 20th anniversary.
 （这家店本周全面打七折、庆祝20周年。）
 
 图示：
@@ -164,7 +164,7 @@ This store <u>_is_</u> selling everything at a 30% discount <u>_this week_</u>, 
 
 这个句子的时间副词是 this week，这是一个包含 now 在内的括弧，所以动词用的是一般现在时的 is。后面的 selling everything at a 30% discount 这个现在分词短语视为形容词补语，现在分词 selling 表现出进行状态。因为时间长（有一周），所以 selling 应解释为「一直卖」。这就是一般语法书所谓的现在进行时。
 
-This road <u>_is_</u> closed to traffic <u>_now_</u> because it <u>_is_</u> being widened.
+This road <u>is</u> closed to traffic <u>now</u> because it <u>is</u> being widened.
 （这条路目前封闭，因为正在拓宽。）
 
 图示：
@@ -177,18 +177,18 @@ This road <u>_is_</u> closed to traffic <u>_now_</u> because it <u>_is_</u> bein
 
 一般时的时间都是括弧形状。如果括弧在未来，就应该采取未来一般时。未来的事情由于尚未发生，牵涉到比较多的不确定因素，所以它的表达方式也比较多样。未来时间的一般时动词，整理一下有6种方式可以表达：
 
-John <u>_will leave_</u> tomorrow.
-John <u>_is going to leave_</u> tomorrow.
-John <u>_is to leave_</u> tomorrow.
-John <u>_is leaving_</u> tomorrow.
-John <u>_will be leaving_</u> tomorrow.
-John <u>_leaves_</u> tomorrow.
+John <u>will leave</u> tomorrow.
+John <u>is going to leave</u> tomorrow.
+John <u>is to leave</u> tomorrow.
+John <u>is leaving</u> tomorrow.
+John <u>will be leaving</u> tomorrow.
+John <u>leaves</u> tomorrow.
 
 时间副词 tomorrow 是一个放在未来的括弧，应采未来一般时。一般语法书所谓的未来一般时是指上述的第 1 种：will leave。这种使用到助动词 will 的讲法，具有最浓厚的「不确定」语气，表示「到时候将会、可能会」，语气的重点放在未来。
 
 第 2 种讲法 is going to leave 和第 1 种 will leave 相当接近，不过它比较口语化、比较不正式。而且 is going to leave 这种说法的语气比较偏重在「现在」的意图、打算、征兆等等。例如：
 
-Because the weatherman says it <u>_will rain_</u> this afternoon, I’<u>_m going to bring_</u> an umbrella.
+Because the weatherman says it <u>will rain</u> this afternoon, I’<u>m going to bring</u> an umbrella.
 (因为气象报告说下午会下雨，我打算带把雨伞出门。)
 
 句中的 it will rain this afternoon 讲的是「未来时间将会如何」，采用第 1 种讲法 will rain 来表示；至于 I'm going to bring an umbrella 讲的则是「现在打算到时候将如何」 ，采用第 2 种讲法 am going to bring 来表示。
@@ -197,45 +197,45 @@ Because the weatherman says it <u>_will rain_</u> this afternoon, I’<u>_m goin
 
 如果把动词改一下，从 leave 换成 go，可以看得更清楚：
 
-John <u>_is going to go_</u> tomorrow.（第2种）
+John <u>is going to go</u> tomorrow.（第2种）
 
 像 is going to go 这种讲法，里面的 going 和 to go 产生重复，是比较拙劣的说法。为了避免重复，可以省掉 going 只留下 to go，就会成为：
 
-John <u>_is to go_</u> tomorrow.（第3种）
+John <u>is to go</u> tomorrow.（第3种）
 
 反之，如果省掉的是 to go、只留下 going，就会成为：
 
-John <u>_is going_</u> tomorrow.（第4种）
+John <u>is going</u> tomorrow.（第4种）
 
 这两种省略的说法分别相当于前述 6 种说法中的第 3 种和第 4 种。所以：第 3 种未来式 John is to leave tomorrow 和第 4 种未来式 John is leaving tomorrow 都可以视为第 2 种未来式 John is going to leave tomorrow 的省略。第 5 种变化则是在第 4 种前面再加一个 will，成为 John will be leaving tomorrow，意思还是差不多。
 
 而且，最适合采用第 3、第 4、第 5 种讲法来表达的未来式动词，大都是一些和 go 有点关连的字，像是 go, come, leave, arrive, begin, end 等等。这些表示「来、去、离开、到达、开始、结束」的字眼，往往代表一种「目前的规画或打算」，这和第 2 种 be going to V 代表「目前的规画或打算」的讲法是同样的性质。为了避免重复，所以经常省略成为 be to V（第3种）、be Ving（第4种），或 will be Ving（第5种）。例如：
 
-The weatherman says a Typhoon <u>_is coming_</u> this way.
+The weatherman says a Typhoon <u>is coming</u> this way.
 (气象报造说台风要来了。)
 
-The train <u>_is leaving_</u> in 10 minutes.
+The train <u>is leaving</u> in 10 minutes.
 (火车再过十分钟要开。)
 
-We <u>_will be arriving_</u> in Shanghai soon.
+We <u>will be arriving</u> in Shanghai soon.
 (我们快要抵达上海了。)
 
-The final game <u>_is to start_</u> in five minutes.
+The final game <u>is to start</u> in five minutes.
 (决赛再过五分钟即将开始。)
 
 至于第 6 种讲法 John leaves tomorrow，完全是把未来才要发生的事情当做「事实」、采用一般现在时来叙述。这是语气最肯定的一种讲法。例如：
 
-The train <u>_leaves at 2:30_</u>.
+The train <u>leaves at 2:30</u>.
 (火车两点半开。)
 
-World Cup finals <u>_begin tomorrow night_</u>.
+World Cup finals <u>begin tomorrow night</u>.
 (世界杯决赛明晚开打。)
 
 这些句子讲的都是「早已排定」的事情。虽然尚未发生，但是已经非常确定，可以排除掉带有不确定意味的助动词 will、直接用一般现在时把它当做事实来叙述。
 
 再看一个未来式的例子：
 
-I <u>_will discuss_</u> the plan with my boss <u>_next week_</u>.
+I <u>will discuss</u> the plan with my boss <u>next week</u>.
 (下星期我会和老板谈一下这个计画。)
 
 图示：
@@ -248,7 +248,7 @@ I <u>_will discuss_</u> the plan with my boss <u>_next week_</u>.
 
 如果以某个过去时间为出发点，它的未来式通常要用到过去拼法的 would。例如：
 
-It was mid-1945; Japan <u>_would soon raid_</u> Pearl Harbor.
+It was mid-1945; Japan <u>would soon raid</u> Pearl Harbor.
 (时间是1945年中；日本即将偷袭珍珠港。)
 
 图示：
@@ -257,7 +257,7 @@ It was mid-1945; Japan <u>_would soon raid_</u> Pearl Harbor.
 
 日本偷袭珍珠港，这件事情发生在 1945 年底。相对于1945年中，偷袭珍珠港事件还在不久后的未来。但是这整个都是过去的事件，所以应该用过去拼法的 would soon raid 来表示未来式。
 
-The weatherman <u>_said_</u> it <u>_would rain_</u>, but it didn’t.
+The weatherman <u>said</u> it <u>would rain</u>, but it didn’t.
 (气象报告说会下雨，结果没下。)
 
 图示：
@@ -274,11 +274,11 @@ The weatherman <u>_said_</u> it <u>_would rain_</u>, but it didn’t.
 
 规则中所谓「表示时间或条件的状语从句」，我们先把范围缩小到两个连词：when 和 if。请比较下面这两句：
 
-<u>_I_</u> <u>_know_</u> <u>_when he left the room_</u>.
+<u>I</u> <u>know</u> <u>when he left the room</u>.
 S V O(名词从句)
 (我知道他何时离开房间的。)
 
-<u>_He_</u> <u>_forgot_</u> <u>_his briefcase_</u> <u>_when he left the room_</u>.
+<u>He</u> <u>forgot</u> <u>his briefcase</u> <u>when he left the room</u>.
 S V O (状语从句)
 (当他离开房间的时候，他忘了公事包。)
 
@@ -288,11 +288,11 @@ S V O (状语从句)
 
 接着再比较下面这两句：
 
-<u>_I_</u> <u>_don't know_</u> <u>_if he will get the money_</u>.
+<u>I</u> <u>don't know</u> <u>if he will get the money</u>.
 S V O(名词从句)
 (我不知道他是否会拿到钱。)
 
-<u>_If he gets the money_</u>, <u>_he_</u> <u>_can help_</u> <u>_us_</u>.
+<u>If he gets the money</u>, <u>he</u> <u>can help</u> <u>us</u>.
 (状语从句) S V O
 (如果他拿到钱,就能帮我们的忙。)
 
@@ -304,7 +304,7 @@ S V O(名词从句)
 
 有了上面那两项归纳，我们就可以把前面那条语法规则范围缩小、改写如下：「When 解释为『当……时候』、if 解释为『如果』，这两种连词引导的状语从句要用现在式代替未来式」。接下来我们要问：为什么？
 
-When he <u>_gets_</u> here, the police <u>_will be_</u> waiting.
+When he <u>gets</u> here, the police <u>will be</u> waiting.
 （当他来到这里时，警察将在等候。）
 
 图示：
@@ -315,7 +315,7 @@ When he <u>_gets_</u> here, the police <u>_will be_</u> waiting.
 
 接下来再看看 if 这个连词：
 
-If he <u>_gets to_</u> the hospital in time, he’<u>_ll be able to see_</u> his father for the last time.
+If he <u>gets to</u> the hospital in time, he’<u>ll be able to see</u> his father for the last time.
 （如果他及时赶到医院，就能见到他父亲最后一面。）
 
 图示：
@@ -334,7 +334,7 @@ If he <u>_gets to_</u> the hospital in time, he’<u>_ll be able to see_</u> his
 
 完成时的时间是个指出截止时间的箭头，如果指出来的截止时间在过去，就该采用过去完成时，例如：
 
-Everybody <u>_had left_</u> <u>_before she got to the station_</u>.
+Everybody <u>had left</u> <u>before she got to the station</u>.
 (在她赶到车站之前，大家都已经先走了。)
 
 图示：
@@ -343,7 +343,7 @@ Everybody <u>_had left_</u> <u>_before she got to the station_</u>.
 
 这个句子的时间由 before 引导的时间状语从句来表示。从状语从句的过去式动词 got to 可以看出时间是在过去，再从连词 before 可以看出，这个时间状语从句表达的时间可以画成一个以过去动作 got to 为截止点的箭头。换句话说，这个时间状语从句并没有清楚交代 leave 这个动作发生在什么时候（没有一个明确的括弧如 last week 之类来表示），只知道这个动作在 got to 这个过去动作之前已经完成。因此主要从句的动词应该采用过去完成时 had left。再看一个例子：
 
-More than 60,000 soldiers <u>_had been_</u> killed <u>_when the President finally decided to pull out of the war_</u>.
+More than 60,000 soldiers <u>had been</u> killed <u>when the President finally decided to pull out of the war</u>.
 (当总统终于决定撤出战争时，已经有六万多名士兵阵亡。)
 
 图示：
@@ -369,11 +369,11 @@ The students had been preparing for the college entrance exam for three years wh
 
 如果上下文都没有交代或暗示截止时间为何、只说「已经完成」，那么通常都要采用现在完成时来表示。例如你告诉朋友说「那部电影我已经看过了」，话中虽然没有说明「在什么时候之前」已经看过，但是言下之意自然就是「现在以前」，所以该采用现在完成时，如下：
 
-I <u>_have seen_</u> that movie.
+I <u>have seen</u> that movie.
 
 换句话说：除非上下文有明言或者暗示其他的截止时间，否则完成时都应该采用现在完成时。请看几个例子：
 
-You can’t enter <u>_now_</u> because the concert <u>_has already begun_</u>.
+You can’t enter <u>now</u> because the concert <u>has already begun</u>.
 (你现在不能进场，因为音乐会已经开始了。)
 
 图示：
@@ -382,7 +382,7 @@ You can’t enter <u>_now_</u> because the concert <u>_has already begun_</u>.
 
 这个句子并没有明确交代音乐会是什么时候开始的，只说「已经」开始。再从主要从句的时间副词 now 来看，截止时间就是现在。换句话说，音乐会是在「现在」之前已经开始，所以该采用现在完成时。再看一个例子：
 
-Everything that can be done <u>_has been_</u> done; <u>_now_</u> we can only wait and see.
+Everything that can be done <u>has been</u> done; <u>now</u> we can only wait and see.
 (可以做的一切都已经做了，现在我们只能等着瞧。)
 
 图示：
@@ -391,7 +391,7 @@ Everything that can be done <u>_has been_</u> done; <u>_now_</u> we can only wai
 
 主要从句的动词采用的是 be 动词的现在完成时 has been，表示「到现在为止已经」（be 动词本身无意义、不须翻译），后面的过去分词 done 当形容词补语看待、表示「被做完」，形容主语 everything。这就是一般语法书所谓的现在完成被动态。
 
-Those marathon runners <u>_have been_</u> running <u>_for two whole hours_</u> without stop <u>_now_</u>.
+Those marathon runners <u>have been</u> running <u>for two whole hours</u> without stop <u>now</u>.
 (那些马拉松选手目前为止已经整整跑了两个小时没有休息。)
 
 图示：
@@ -402,8 +402,8 @@ Those marathon runners <u>_have been_</u> running <u>_for two whole hours_</u> w
 
 完成时动词后面有没有现在分词的补语，有时候并无差别、有时候则会造成不一样的意思。请比较一下这两个句子：
 
-I <u>_have lived_</u> here <u>_for 20 years_</u>.
-I <u>_have been living_</u> here <u>_for 20 years_</u>.
+I <u>have lived</u> here <u>for 20 years</u>.
+I <u>have been living</u> here <u>for 20 years</u>.
 (我在这（一直）住了20年了。)
 
 图示：
@@ -412,10 +412,10 @@ I <u>_have been living_</u> here <u>_for 20 years_</u>.
 
 这两种讲法的意思差不多：后者用现在分词 living 当主语补语、强调「一直住」，前者没有强调，但基本上意思相同。再请比较一下这两个句子：
 
-I <u>_have read_</u> your book.
+I <u>have read</u> your book.
 (您的大作我拜读过了。)
 
-I <u>_have been_</u> reading your book.
+I <u>have been</u> reading your book.
 (您的大作我最近一直在看。)
 
 图示：
@@ -428,8 +428,8 @@ I <u>_have been_</u> reading your book.
 
 未来完成时的时间也是一个箭头形状，唯一的差别在于它的截止时间在未来。例如：
 
-<u>_By August_</u> I <u>_will have worked_</u> at the company <u>_for 30 years_</u>.
-<u>_By August_</u> I <u>_will have been_</u> working at the company <u>_for 30 years_</u>.
+<u>By August</u> I <u>will have worked</u> at the company <u>for 30 years</u>.
+<u>By August</u> I <u>will have been</u> working at the company <u>for 30 years</u>.
 (到八月为止我将在这家公司（一直）工作满30年。)
 
 图示：
@@ -438,7 +438,7 @@ I <u>_have been_</u> reading your book.
 
 上面这两个句子相同，时间副词都是介词短语 by August 与 for 30 years。表达的时间是「到八月为止有30年」，显然是个箭头形状、截止时间在八月（未来时间），所以该采用未来完成时。动词 will have worked 表示「将已经做满」30年。如果动词改为 will have been，意思是「将已经」有30年，后面的现在分词 working 视为形容词、当主语补语使用。字尾的 -ing 表达出进行状态、表示这30年来「一直」在此工作。后者这种说法就是一般语法书所谓的未来完成进行时。
 
-Experts estimate that the last of our oil reserves <u>_will have been_</u> depleted <u>_by the middle of this century_</u>.
+Experts estimate that the last of our oil reserves <u>will have been</u> depleted <u>by the middle of this century</u>.
 (专家估计，我们最后的石油蕴藏在本世纪中叶之前就会被用光。)
 
 图示：
@@ -447,7 +447,7 @@ Experts estimate that the last of our oil reserves <u>_will have been_</u> deple
 
 这个句子的时间副词是介词短语 by the middle of this century。介词 by 表示的是一个截止时间，而这个截止时间在未来，所以动词该采用未来完成时 will have been。后面的过去分词 depleted 当形容词补语看待，形容主语 the last of our oil reserves。过去分词字尾 -ed 表达出被动语态，所以 depleted 应解释为「被用完」。这就是一般语法书所谓的未来完成被动态。
 
-<u>_In two more minutes_</u>, she <u>_will have been_</u> talking on the phone <u>_for three hours_</u>!
+<u>In two more minutes</u>, she <u>will have been</u> talking on the phone <u>for three hours</u>!
 (再过两分钟，她讲电话就会一直讲了3小时之久。)
 
 图示：
@@ -456,7 +456,7 @@ Experts estimate that the last of our oil reserves <u>_will have been_</u> deple
 
 句中的介词短语 in two more minutes「再过两分钟」指向未来时间，另一个介词短语 for three hours「算算已经有3小时」表示一个截止的箭头，所以动词该采用未来完成时 will have been。后面的现在分词 talking 视为形容词、当主语补语来形容主语 she，字尾 -ing 表达出进行状态，意思是「一直」讲话。这就是一般语法书所谓的未来完成进行时。
 
-<u>_Leave_</u> the test papers at the front desk <u>_when you have finished the test_</u>.
+<u>Leave</u> the test papers at the front desk <u>when you have finished the test</u>.
 (考完式请把测验卷放在最前面的桌上。)
 
 图示：
@@ -465,7 +465,7 @@ Experts estimate that the last of our oil reserves <u>_will have been_</u> deple
 
 这个句子的主要从句是命令句语气，所以动词 leave 采用原形动词。 When you have finished the test 是个时间状语从句，连词 when 是外加的从属连词、解释为「当……时候」。所以，虽然说这句话时考试尚未考完，但是这个时间状语从句中必须「当做已经到了考完的时候」，也就是必须把截止点当做就是现在，因此动词要采用现在完成时 have finished 。一般语法书那条规则「表示时间或条件的状语从句，用现在式代替未来式」就是这个情况。上例是表示时间的状语从句，再举一个表示条件的状语从句为例：
 
-You can leave early <u>_if you have finished the test before the bell rings_</u>.
+You can leave early <u>if you have finished the test before the bell rings</u>.
 (如果在铃响之前已经写完了测验，就可以先离开。)
 
 图示：
@@ -482,7 +482,7 @@ Some buildings that were destroyed in the 921 earthquake were poorly constructed
 
 这个句子可以分成主要从句 some buildings were poorly constructed 与关系从句 that were destroyed in the 921 earthquake。时间副词是 in the 921 earthquake 这个介词短语，它括出一个过去时间的括弧，所以它修饰的关系从句的动词应采用一般过去时 were。但是，主要从句的时间应该不一样：建筑物被毁的时间是在 921 地震中、是过去时间，但是建筑物建造的时间不可能是在 921地震中、应该是在之前才对。因此，主要从句的动词应该采用过去完成时而非一般过去时，如下：
 
-Some buildings that <u>_were_</u> destroyed <u>_in the 921 earthquake_</u> <u>_had been_</u> poorly constructed.
+Some buildings that <u>were</u> destroyed <u>in the 921 earthquake</u> <u>had been</u> poorly constructed.
 (921大地震中被毁的房屋，其中有一些当初建造不良。)
 
 图示：
@@ -493,7 +493,7 @@ Some buildings that <u>_were_</u> destroyed <u>_in the 921 earthquake_</u> <u>_h
 
 请观察下面这些例子当中的时态一致性：
 
-<u>_Never before_</u> <u>_had_</u> rescue workers in Taiwan <u>_handled_</u> so many victims as they <u>_did_</u> <u>_in the aftermath of 921_</u>.
+<u>Never before</u> <u>had</u> rescue workers in Taiwan <u>handled</u> so many victims as they <u>did</u> <u>in the aftermath of 921</u>.
 (台湾的救难人员从来没有像921过后那样处理过那么多的受害者。)
 
 图示：
@@ -502,7 +502,7 @@ Some buildings that <u>_were_</u> destroyed <u>_in the 921 earthquake_</u> <u>_h
 
 这是一个比较级的句子。从属连词 as 引导的状语从句 as they did in the aftermath of 921，里面的时间副词是 in the aftermath of 921 这个介词短语，它括出一个过去时间的括弧，所以动词 did（代表 handled ）采用的是一般过去时。但是主要从句的时间副词 never before 则是画出一个箭头形状、截止时间是过去时间的 in the aftermath of 921，因此它的动词应该采用过去完成时 had handled。
 
-Under a provision of the law that <u>_has never been_</u> applied, the President <u>_is_</u> required to seek the approval of Congress before leading the country into war.
+Under a provision of the law that <u>has never been</u> applied, the President <u>is</u> required to seek the approval of Congress before leading the country into war.
 (依照该法律一项条文的规定（这项条文迄今从未被引用过），总统必须先取得国会的同意才能带领国家参战。)
 
 图示：

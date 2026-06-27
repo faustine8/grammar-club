@@ -10,17 +10,17 @@
 
 ## 一．名词短语中
 
-This is a <u>_good_</u> book.
+This is a <u>good</u> book.
 (这是一本好书。)
 
 形容词 good 放在限定词 a 与名词 book 中间，这是「名词短语中」的形容词位置，这种形容词称为 attributive adjectives。这个位置也可以放进分词当形容词使用，如下面这两个例子：
 
-This is a <u>_best-selling_</u> book.
+This is a <u>best-selling</u> book.
 (这是一本畅销书。)
 
 现在分词 best-selling 放在「名词短语中」的形容词位置，当作形容词使用。不过现在分词多了一项特色：它的 -ing 字尾具有「持续、进行」的暗示，所以 best-selling 带有「正在畅销的、一直畅销的」暗示。也就是说，这个现在分词虽然当形容词使用，却还是能够表达「进行」状态。
 
-This is a <u>_well-written_</u> book.
+This is a <u>well-written</u> book.
 (这是一本写得很好的书。)
 
 过去分词 well-written 也可以放在「名词短语中」的形容词位置，表示它同样也可以当形容词使用。过去分词也有自己的一项特色：它具有「被动」或「完成」的暗示。所以，well-written 这个过去分词虽然当作形容词使用，却仍然带有「被动」语态（表示「被写得很好」），以及「完成」​​状态（表示「已经写好」）。
@@ -29,17 +29,17 @@ This is a <u>_well-written_</u> book.
 
 形容词除了放在名词短语中，另一个主要的位置就是补语位置。这个位置的形容词称为 predicative adjectives，例如：
 
-The book is <u>_good_</u>.
+The book is <u>good</u>.
 (这本书很好。)
 
 形容词 good 放在 is 后面当主语补语使用、修饰主语 the book。这个位置也可以放进分词（现在分词与过去分词），如下：
 
-The book is <u>_selling well_</u>.
+The book is <u>selling well</u>.
 (这本书卖得很好。)
 
 依照传统语法的诠释，这个句子的动词应该是 is selling 这个动词短语，称为「现在进行时」。这是正确的诠释。但是如果采用传统语法的诠释方式，动词时态有24种之多，非常复杂。反之，如果另辟蹊径、变通一下，认定 be 动词就是动词、后面的分​​词是形容词补语，那么时态的问题就会变得非常简单。拿上面这个例子来说，简单化的诠释是这样的：动词是 is，它的时态是「一般现在时」，后面 selling well 这个分词短语是形容词短语，当主语补语使用，修饰主语 the book。现在分词的 -ing 字尾表达「进行」状态，所以 selling well 这个形容词短语表示这本书「正在」或「一直」卖得很好。
 
-The book is <u>_well written_</u>.
+The book is <u>well written</u>.
 (这本书写得很好。)
 
 依照传统语法的诠释，这个句子的动词应该是 is written 这个动词短语，称为「现在简单被动态」。简单化的诠释则是一律认定 be 为动词，后面 well written 这个过去分词短语就当形容词补语看待、修饰主语 the book。过去分词的字尾具有「被动」语态或「完成」状态，所以 well written 这个形容词短语表示这本书「被写」或「已经写」得很好。
@@ -52,10 +52,10 @@ The book is <u>_well written_</u>.
 
 看看下面的例子：
 
-The man <u>_was dressed_</u> by his valet this morning.
+The man <u>was dressed</u> by his valet this morning.
 (此人今天早上是由他的仆人伺候穿衣的。)
 
-He is <u>_dressed_</u> in blue.
+He is <u>dressed</u> in blue.
 (他身穿蓝色衣服。)
 
 第 1 句是个被动语态的句子，动词是被动态的动词短语 was dressed，后面有被动态专用的介词 by 表示「被谁」。时间副词 this morning 是过去时间，因此动词采用过去式的 was dressed，表示穿衣服的「动作」发生在过去。这些观察在在都表示这个句子的动词是 was dressed，过去分词 dressed 属于动词短语中的一部分。
@@ -66,10 +66,10 @@ He is <u>_dressed_</u> in blue.
 
 再看一个例子：
 
-I <u>_was annoyed_</u> by mosquitoes all night last night.
+I <u>was annoyed</u> by mosquitoes all night last night.
 (我昨晚被蚊子吵了一整夜。)
 
-I am very <u>_annoyed_</u> with him.
+I am very <u>annoyed</u> with him.
 (我对他相当反感。)
 
 第 1 句的时间是过去（last night），动词采用过去式的被动态动词短语 was annoyed，后面有 by 引导的介词短语来表示「被谁」。这些观察显示这个句子的动词是 was annoyed，过去分词 annoyed 属于动词短语中的一部分。
@@ -84,35 +84,35 @@ I am very <u>_annoyed_</u> with him.
 
 比较聪明的方法是不要管那些无穷无尽的公式，而是设法去理解诸如现在分词、过去分词等少数几个「元件」的性质与用法，再加以排列组合就可以应用在各式各样的情境中。这种情况有如学单词：一个个单词去死背，那么有数十万个单词要背；反之，如果熟悉了一、两百个字根字首，再用排列组合的方式来诠释单词，记忆的负担就可大幅减轻。以「be + Ven = 被动态」这条公式而言，学习者如果能够掌握过去分词的特质，知道它可以当形容词使用、本身具有「被动」语态或「完成」状态，就能充分运用它在英文写作中、不必去背那些公式。例如：
 
-My wallet <u>_was_</u> <u>_stolen_</u> last night.
+My wallet <u>was</u> <u>stolen</u> last night.
 (我的皮夹昨晚被偷了。)
 
 传统语法认定 was stolen 为被动态的动词短语。比较简单的看法则是一律认定 be 为动词（时间是 last night 所以采用过去式的 was），后面的过去分词 stolen 认定为形容词补语、本身具有「被动」语态，表示「被偷」，用来修饰主语 my wallet。以这种方式来诠释，就不必去背「be + Ven = 被动态」这条公式了。请比较一下这个句子：
 
-<u>_I_</u> <u>_found_</u> <u>_my wallet_</u> <u>_stolen_</u>.
+<u>I</u> <u>found</u> <u>my wallet</u> <u>stolen</u>.
 S V O C
 (我发觉我的皮夹被偷了。)
 
 传统语法对这个句子的诠释，也必须认定 my wallet 是宾语，后面的过去分词 stolen 是形容词、当宾语补语使用。当然，上面这个句子就是下面这句的减化：
 
-<u>_I_</u> <u>_found_</u> <u>_that my wallet was stolen_</u>.
+<u>I</u> <u>found</u> <u>that my wallet was stolen</u>.
 S V O（名词从句）
 
 其中的名词从句 my wallet was stolen，句型和上列第 1 句完全相同。如果把 was 视为动词，后面的 stolen 视为形容词、当主语补语使用，那么由此减化为上面第 2 句 I found my wallet stolen（my wallet 成为宾语、stolen 成为宾语补语）就是顺理成章的变化。
 
 「be + Ven = 被动态」这条公式不仅没有必要去背它，有时还会有误导之嫌。因为，过去分词放在 be 动词后面成为 be + Ven 的形态，有时并不表示被动语态。而且，过去分词就算不放在 be 动词后面，经常还是要加上被动语态来解释。所以，「be + Ven = 被动态」这条公式实在没有多大的意义。看看下面的例子：
 
-I can’t find my wallet. It’<u>_s_</u> <u>_gone_</u>.
+I can’t find my wallet. It’<u>s</u> <u>gone</u>.
 （我找不到皮夹。不见了。）
 
 后面那一句的动词如果认定为 is gone，就符合 be + Ven 的构造，但是它并非被动态。因为 go 这个动词是个不及物动词，并没有被动态可言。过去分词 gone 虽然放在 is 后面成为 be + Ven 的构造，仍不能作被动态动词解释，而应该把 gone 当作形容词使用，解释为「跑掉了，不见了」，也就是作「完成」状态解释。前面说过，过去分词可以表示「被动」语态或「完成」状态，这里就是解释为「完成」状态的一个例子。再看看下面这个句子：
 
-I’<u>_m_</u> <u>_done_</u>. It’s all yours.
+I’<u>m</u> <u>done</u>. It’s all yours.
 （我用完了。交给你了。）
 
 比方你在提款机前面办完了手续，让给排在后面的人使用时就可以加上这么一句。这里的动词 do 是个及物动词，但是 am done 虽然符合「be + Ven」的构造，却仍然不能作被动态解释。因为它在这里的意思显然不是说我「被做掉」，而是说我「已经做完」。所以，过去分词 done 在这里要当作形容词看待，不表示被动语态而是表示「完成」状态，也就是「已经」做完的意思。还有一个明显的例子：
 
-The leaves <u>_are_</u> <u>_fallen_</u>.
+The leaves <u>are</u> <u>fallen</u>.
 （叶子都落光了。）
 
 同样的，are fallen 也符合「be + Ven」的构造，但是仍然不能解释为被动态，因为动词 fall 是不及物动词、并没有被动态可言。这时候过去分词 fallen 必须当形容词解释，表示「完成」状态，也就是说叶子「已经」掉落。
@@ -131,10 +131,10 @@ burnt-down houses 被烧毁的房子
 
 和过去分词一样，现在分词也有动词用法与形容词用法的差别，但也可以选择忽略这个细微的差别。先看看下面的例子：
 
-The dog <u>_was sleeping_</u> under the car then.
+The dog <u>was sleeping</u> under the car then.
 （那只狗当时正在汽车底下睡觉。）
 
-The story is rather <u>_interesting_</u>.
+The story is rather <u>interesting</u>.
 （这个故事蛮有意思的。）
 
 第 1 句中的动词是过去进行时 was sleeping，表示「正在睡觉」或「一直睡觉」。现在分词 sleeping 属于动词短语中的一部分，所以是当动词使用。第 2 句的动词则是一般现在时的 is，后面的现在分词 interesting 是个形容词、当作主语补语。有一个比较明显的线索是在 interesting 前面有个程度副词 rather 修饰它，可以看出 interesting 不是动词、而是形容词。
@@ -145,7 +145,7 @@ The story is rather <u>_interesting_</u>.
 
 传统语法还有一条基本规则是「be + Ving = 进行时」。这条规则也不是很有意义。因为，be + Ving 不一定是进行时。反之，没有 be 动词时，独立的 Ving 还是可以表达进行状态。例如：
 
-The movie was really <u>_boring_</u>.
+The movie was really <u>boring</u>.
 （这部电影真的很无聊。）
 
 这个句子里面虽然有 be + Ving（was boring），却不是进行时。句中的动词是一般过去时的 was，后面的现在分词 boring 是形容词，当作主语补语、修饰主语 the movie。反之：
@@ -158,30 +158,30 @@ a sinking ship 逐渐沉没的船只
 
 另外，即使是传统语法认定的进行时，如果换个角度诠释，把 be 视为动词、后面的现在分词视为具有「进行」状态的形容词，也都可以讲得通，句型的变化也会比较灵活。例如：
 
-<u>_I_</u> <u>_saw_</u> <u>_that the tree was swaying in the breeze_</u>.
+<u>I</u> <u>saw</u> <u>that the tree was swaying in the breeze</u>.
 S V O（名词从句）
 
-<u>_I_</u> <u>_saw_</u> <u>_the tree_</u> <u>_swaying_</u> in the breeze.
+<u>I</u> <u>saw</u> <u>the tree</u> <u>swaying</u> in the breeze.
 S V O C （我看到树在风中摇摆。）
 
 第1句的宾语从句中，动词是 was swaying 这个过去进行时的动词短语，现在分词 swaying 是动词中的一部分。但是，这个句子一旦减化成为第2句，传统语法也不得不改变诠释，将现在分词 swaying 视为形容词、当作宾语补语看待。既然如此，为何不直接把第 1 句中 the tree was swaying 的 swaying 也视为形容词补语、was 视为动词？简单的看法是：凡是 be 动词都认定为动词、后面的分​​词（不论现在分词还是过去分词）视为形容词补语，这样做至少有驾简驭繁的好处。动词时态也会相对变得简单许多。更重要的是，以这种方式诠释各式各样的减化从句，包括分词构句、同位格、动名词、不定式短语等等，都会很容易理解。
 
 再看一个比较复杂的例子：
 
-<u>_We_</u> <u>_found_</u> <u>_that he was teaching his son English at home_</u>.
+<u>We</u> <u>found</u> <u>that he was teaching his son English at home</u>.
 S V O
 
-<u>_We_</u> <u>_found_</u> <u>_him_</u> <u>_teaching his son English at home_</u>.
+<u>We</u> <u>found</u> <u>him</u> <u>teaching his son English at home</u>.
 S V O C （我们发现他在家里教儿子英文。）
 
 第 1 句中的宾语从句，传统语法一般是如此诠释：
 
-<u>_he_</u> <u>_was teaching_</u> <u>_his son_</u> <u>_English_</u> at home
+<u>he</u> <u>was teaching</u> <u>his son</u> <u>English</u> at home
 S V O1 O2
 
 动词是过去进行时的动词短语 was teaching，现在分词 teaching 属于动词的一部分，后面的 his son 与 English 分别是两个宾语。不过，如果采简单化的诠释一以贯之，一律认定 be 为动词、后面的分​​词短语为形容词补语，那么这个名词从句的构造如下：
 
-<u>_he_</u> <u>_was_</u> <u>_teaching his son English at home_</u>
+<u>he</u> <u>was</u> <u>teaching his son English at home</u>
 S V C
 
 这时候动词就是 was，一般过去时，后面的 teaching his son English at home 是现在分词短语，当形容词补语使用（主语补语），修饰主语 he。现在分词 -ing 字尾表达「进行」状态，所以有「正在」教的意思。这种诠释方式除了简单化，还有一项好处：很容易由此减化成为上列的第 2 句 We found him teaching his son English at home。在第2句中，teaching his son English at home 是现在分词短语，当形容词补语使用（宾语补语），修饰宾语 him。
