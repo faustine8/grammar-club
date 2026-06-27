@@ -14,7 +14,6 @@ export default defineConfig({
         text: 'Notes',
         activeMatch: '/grammar-notes/',
         items: [
-          { text: '学习路径', link: '/#learning-path' },
           { text: '简单句', link: '/grammar-notes/01-SimpleSentences.md' },
           { text: '复合句', link: '/grammar-notes/16-CompoundSentences.md' },
           { text: '简化从句', link: '/grammar-notes/22-ReducedClauses.md' }
