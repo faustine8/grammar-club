@@ -5,8 +5,13 @@ export default defineConfig({
   base: '/grammar-club/',
   title: "Grammar Club",
   description: "从简单句到简化从句的英文句型地图",
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/grammar-club/images/grammar-club-icon.png' }]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/images/grammar-club-icon.png',
+
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide.md' },

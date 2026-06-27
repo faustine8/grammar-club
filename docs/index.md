@@ -7,6 +7,9 @@ hero:
   name: Grammar Club
   text: 从简单句到简化从句，建立可用于阅读与写作的英文句型地图。
   tagline: 这份站点整理《旋元佑进阶文法》的学习顺序，把句子元素、复合句结构、简化从句和常见写作错误放在同一条路径上，适合系统复习，也适合查阅。
+  image:
+    src: /images/grammar-club-hero.png
+    alt: Grammar Club hero image
   actions:
     - theme: brand
       text: 开始：简单句
