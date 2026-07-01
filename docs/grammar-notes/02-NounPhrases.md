@@ -223,7 +223,7 @@ The soldiers do <u>100 push-ups</u> every day.
 
 ## 副词
 
-名词短语中也可以有副词。例如 their very pretty garden 这个名词短语, 除了限定词 (their) + 形容词 (pretty) + 名词(garden) 这三个部分之外,可以看到在形容词前面附加了 very 这个字。 Very 属于**加强语气的副词 (intensifier)**​​, 用在这里是当作修饰形容词 pretty 的修饰语使用, 是个可有可无的元素。再看个类似的例子:
+名词短语中也可以有副词。例如 their very pretty garden 这个名词短语, 除了限定词 (their) + 形容词 (pretty) + 名词(garden) 这三个部分之外,可以看到在形容词前面附加了 very 这个字。 Very 属于**加强语气的副词 (intensifier)**, 用在这里是当作修饰形容词 pretty 的修饰语使用, 是个可有可无的元素。再看个类似的例子:
 
 that rather old jacket 那件蛮老旧的外套
 
@@ -484,7 +484,7 @@ There's <u>a dog</u> in his front yard, but it's not <u>the dog</u> I saw last t
 
 前面的 a dog 相当于 one dog，「一条狗」，上下文并无指示是「哪一条」。后面的 the dog 相当于 that dog，因为下文有 I saw last time 这个关系从句指出是我上回看到的「那条」。
 
-要判断该用不定冠词 a 或 an 还是该用定词词 the，最简单的方法就是分别把 a 或 an 解读为 one「一个」、把 the 解读为 that 或 those「那个或那些」，并从句意中揣摩应该说「一个」还是应该​​说「那个」。例如：
+要判断该用不定冠词 a 或 an 还是该用定词词 the，最简单的方法就是分别把 a 或 an 解读为 one「一个」、把 the 解读为 that 或 those「那个或那些」，并从句意中揣摩应该说「一个」还是应该说「那个」。例如：
 
 John is <u>a very tall player</u>, but he's not <u>the tallest player</u> on the team.
 （约翰是个蛮高的球员，但他还不是队上最高的那个。）
@@ -498,7 +498,7 @@ John is <u>a very tall player</u>, but he's not <u>the tallest player</u> on the
 <u>Most books</u> in my library are science fiction.
 （我图书室里头大部分的书都是科幻小说。）
 
-名词短语 most books 当中，most 是不折不扣的最高级：限定词 many（原形）、more（比较级）、most（最高级）。但是，它在这个名词短语中扮演限定词的角色，功能只在于限定这个名词的范围：是图书室里头「大部分」的书，并没有指出是「哪几本」。既然缺乏指示性、不​​具有 that 或 th ose 的功能，也就不能使用定冠词 the。
+名词短语 most books 当中，most 是不折不扣的最高级：限定词 many（原形）、more（比较级）、most（最高级）。但是，它在这个名词短语中扮演限定词的角色，功能只在于限定这个名词的范围：是图书室里头「大部分」的书，并没有指出是「哪几本」。既然缺乏指示性、不具有 that 或 th ose 的功能，也就不能使用定冠词 the。
 
 这个情况和 the most expensive books in my library 不同，后者这个名词短语用最高级形容词 most expensive 来指出图书室里头最贵的「那几本」，具有明确的指示意味，所以该采用定冠词 the。
 
@@ -564,7 +564,12 @@ He picked up <u>a chip in that pile</u> and gave it to the waitress.
 
 真正的专有名词是「特称」，不能加冠词。但是又有一条语法规则说：专有名词不加定冠词 the，但有以下例外：河流、群山、群岛、船只、报纸、杂志、旅馆等等专有名词必须加定冠词。
 
-the Danube 多瑙河 the Himalayas 喜马拉雅山 the Maldives 马尔地夫群岛 the Titanic 铁达尼号 the Newsweek 新闻周刊 the Ritz 丽池饭店
+* the Danube 多瑙河
+* the Himalayas 喜马拉雅山
+* the Maldives 马尔地夫群岛
+* the Titanic 铁达尼号
+* the Newsweek 新闻周刊
+* the Ritz 丽池饭店
 
 乍看之下，好像真的是一堆专有名词加了定冠词。但是仔细看看，名词短语有三个位置：限定词 + 形容词 + 名词。如果对比一下前面那份名单中的英文与中译，可以发现英文都少了一个部分：名词部分都被省略了。这个部分可以还原如下：
 
@@ -601,7 +606,7 @@ What do you make of <u>the Johnsons</u>, your new neighbors?
 
 如果看到专有名词前面加了冠词、或者后面加了复数字尾，那就表示这个专有名词在此已经被拿来当做普通名词使用、成为通称而不再是特称。例如：
 
-The producers of North Country hoped Charlize Theron could pull off <u>a Julia Roberts</u>.
+_The producers of North Country_ hoped Charlize Theron could pull off <u>a Julia Roberts</u>.
 （《北国性骚扰》的片商希望莎莉赛隆能演出一招和茱莉亚罗勃兹一样的手法。）
 
 茱莉亚罗勃兹在《永不妥协》一片中饰演挑战大企业的单亲妈妈，该片创下极高的票房。莎莉赛隆在《北国性骚扰》中同样饰演挑战大企业的单亲妈妈，片商希望她能再创茱莉亚罗勃兹的卓越成就。所谓 pull off a Julia Roberts，这种讲法是把 Julia Roberts 这个人名当做普通名词使用了：不再代表这个人、而是代表这个人所创下的成就。类似的成就，别人也可以再创，所以不只一个。这时就可以加 a 来表示是「一个」。这是专有名词当普通名词使用的结果。再看一个例子：

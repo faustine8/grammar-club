@@ -2,6 +2,8 @@
   --gc-forest: #34543f;
   --gc-mark-highlight: #167447;
   --gc-markdown-body-font: "Times New Roman", Times, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --gc-selection-bg: var(--vp-c-brand-1);
+  --gc-selection-text: #fff;
   --vp-c-brand-1: var(--gc-forest);
   --vp-c-brand-2: #416a50;
   --vp-c-brand-3: #5b8268;
@@ -13,6 +15,13 @@
 
 .dark {
   --gc-mark-highlight: #7fcf9d;
+  --gc-selection-bg: var(--gc-mark-highlight);
+  --gc-selection-text: var(--vp-c-bg);
+}
+
+::selection {
+  background-color: var(--gc-selection-bg);
+  color: var(--gc-selection-text);
 }
 
 .VPNavBarTitle .title {
